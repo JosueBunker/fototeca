@@ -6,20 +6,24 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Fototeca - Blog</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
+<head>
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">   
 
-
+  <title>Fototeca - Blog</title>   
+  
+  <!-- Favicon -->   
+  <link href="http://68.183.113.49/wp-content/themes/temp/img/favicon.png" rel="icon" type="image/png">   
+  <!-- Fonts -->   
+  <link href="" rel="stylesheet"> 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
-  <link href="css/blog.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/blog.css" rel="stylesheet">
 </head>
 
 <body class="blog-page">
@@ -31,7 +35,7 @@ href="" rel="stylesheet">
           <div class="navbar-header">
             <div class="navbar_logo">
               <a class="navbar-brand" href="index.html">
-                <img src="img/logo.png">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
               </a>
             </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -48,13 +52,13 @@ href="" rel="stylesheet">
               </form>
             </div>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="about.html">About</a></li>
-              <li><a href="Escuela.html">Escuela</a></li>
-              <li><a href="Eventos.html">Eventos</a></li>
-              <li><a href="es-o.html">Galeria ES-O</a></li>
-              <li><a href="lab.html">LAB de impresion</a></li>
-              <li><a href="blog.html">Blog</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="about/">About</a></li>
+              <li><a href="escuela/">Escuela</a></li>
+              <li><a href="eventos/">Eventos</a></li>
+              <li><a href="es-o/">Galeria ES-O</a></li>
+              <li><a href="lab/">LAB de impresion</a></li>
+              <li><a href="blog/">Blog</a></li>
               <li></li>
             </ul>
           </div>
@@ -84,7 +88,7 @@ href="" rel="stylesheet">
         <div class="navbar-header">
           <div class="navbar_logo">
             <a class="navbar-brand" href="index.html">
-              <img src="img/logo.png">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
             </a>
           </div>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -102,13 +106,13 @@ href="" rel="stylesheet">
             </form>
           </div>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="escuela.html">Escuela</a></li>
-            <li><a href="eventos.html">Eventos</a></li>
-            <li><a href="es-o.html">Galeria ES-O</a></li>
-            <li><a href="lab.html">LAB de impresion</a></li>
-            <li><a href="blog.html">Blog</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="about/">About</a></li>
+            <li><a href="escuela/">Escuela</a></li>
+            <li><a href="eventos/">Eventos</a></li>
+            <li><a href="es-o/">Galeria ES-O</a></li>
+            <li><a href="lab/">LAB de impresion</a></li>
+            <li><a href="blog/">Blog</a></li>
             <li><a href="#">Buscar</a></li>
             <li></li>
           </ul>
@@ -122,102 +126,111 @@ href="" rel="stylesheet">
     <div class="container">
       <h1 class="heading"><span class="line-border"></span> Blog</h1> 
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
 
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner slider_sec">
-        <div class="item active">
-          <img src="img/blog-slider.png" alt="Los Angeles">
-          <div class="carousel-caption">
-            <h4>POSPRODUCCIÓN</h4>
-            <div class="inner-caption">
-              <h1>Conociendo
-              <span class="main_head_span">las imágenes</span></h1>
-              <p>16 de junio / Por: Jane Doe</p>
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner slider_sec">
+          <div class="item active">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Los Angeles">
+            <div class="carousel-caption">
+              <h4>POSPRODUCCIÓN</h4>
+              <div class="inner-caption">
+                <h1>Conociendo
+                <span class="main_head_span">las imágenes</span></h1>
+                <p>16 de junio / Por: Jane Doe</p>
+              </div>
+              <a href="blog-post/">
+                <button type="btn" class="btn btn-learn">CONOCE MÁS 
+                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                </button>
+              </a>
             </div>
-            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
-            </button>
+          </div>
+
+          <div class="item">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Chicago">
+            <div class="carousel-caption">
+              <h4>POSPRODUCCIÓN</h4>
+              <div class="inner-caption">
+                <h1>Conociendo
+                <span class="main_head_span">las imágenes</span></h1>
+                <p>16 de junio / Por: Jane Doe</p>
+              </div>
+              <a href="blog-post/">
+                <button type="btn" class="btn btn-learn">CONOCE MÁS 
+                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                </button>
+              </a>
+            </div>
+          </div>
+
+          <div class="item">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="New york">
+            <div class="carousel-caption">
+              <h4>POSPRODUCCIÓN</h4>
+              <div class="inner-caption">
+                <h1>Conociendo
+                  <span class="main_head_span">las imágenes</span>
+                </h1>
+                <p>16 de junio / Por: Jane Doe</p>
+              </div>
+              <a href="blog-post/">
+                <button type="btn" class="btn btn-learn">CONOCE MÁS 
+                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                </button>
+              </a>
+            </div>
           </div>
         </div>
 
-        <div class="item">
-          <img src="img/blog-slider.png" alt="Chicago">
-          <div class="carousel-caption">
-            <h4>POSPRODUCCIÓN</h4>
-            <div class="inner-caption">
-              <h1>Conociendo
-              <span class="main_head_span">las imágenes</span></h1>
-              <p>16 de junio / Por: Jane Doe</p>
-            </div>
-            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
-            </button>
-          </div>
-        </div>
-
-        <div class="item">
-          <img src="img/blog-slider.png" alt="New york">
-          <div class="carousel-caption">
-            <h4>POSPRODUCCIÓN</h4>
-            <div class="inner-caption">
-              <h1>Conociendo
-                <span class="main_head_span">las imágenes</span>
-              </h1>
-              <p>16 de junio / Por: Jane Doe</p>
-            </div>
-            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
-            </button>
-          </div>
-        </div>
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
+          <span class="sr-only">Previous</span>
+            <div class="text-msg">
+            <p>Post anterior</p>
+          </div> 
+        </a>
+        
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+          <span class="sr-only">Next</span>
+          <div class="text-msg">
+            <p>Post siguiente</p>
+          </div> 
+        </a>
       </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
-      <span class="sr-only">Previous</span>
-      <div class="text-msg">
-        <p>Post anterior</p>
-       </div> 
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-
-      <span class="sr-only">Next</span>
-      <div class="text-msg">
-        <p>Post siguiente</p>
-       </div> 
-    </a>
-  </div>
-</div>
-</section>
+    </div>
+  </section>
 
 
-<section class="section-div slider-sec blog-slider for_mobile">
-  <div class="container">
-  <h1 class="heading"><span class="line-border"></span> Blog</h1> 
-    <div class="mobile_slider">
-      <div class="carousel-caption">
+  <section class="section-div slider-sec blog-slider for_mobile">
+    <div class="container">
+      <h1 class="heading"><span class="line-border"></span> Blog</h1> 
+      <div class="mobile_slider">
+        <div class="carousel-caption">
           <h3>POSPRODUCCIÓN</h3>
-            <div class="inner-caption">
-              <h1>Conociendo 
-              <br>las imágenes</h1>
-             <p>16 de junio / Por: Jane Doe</p>
-            </div>
-        <img src="img/blog-slider.png">
-           <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+          <div class="inner-caption">
+            <h1>Conociendo 
+              <br>las imágenes
+            </h1>
+            <p>16 de junio / Por: Jane Doe</p>
+          </div>
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png">
+          <a href="blog-post/">
+            <button type="btn" class="btn btn-learn">CONOCE MÁS 
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
+          </a>
         </div>
       </div>
-</div>
-</section>
+    </div>
+  </section>
 
 
  <section class="alumno-sec section-div blog-div bg-blog">
@@ -231,7 +244,7 @@ href="" rel="stylesheet">
               <p><A href="#">ALUMNO DESTACADO</a></p>
               <div class="inner-blog">
                 <h1>Juan Pablo </br>Ochoa</h1>
-                <img class="like-img" src="img/like.png">
+                <img class="like-img" src="http://68.183.113.49/wp-content/themes/temp/img/like.png">
              </div>
               <p>Objectively re-engineer virtual outsourcing whereas 
               cross-media applications. Interactively reconceptualize 
@@ -240,7 +253,7 @@ href="" rel="stylesheet">
               principle-centered process improvements. 
             </p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
           </div>  
@@ -250,40 +263,40 @@ href="" rel="stylesheet">
 <div class="blog-card">
   <div class="row">
         <div class="col-sm-4 blog">
-          <div class="blog-img" style="background:url(./img/b1.jpg);">
+          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/b1.jpg);">
             <h2>Foto del día</h2>
           </div>
           <div class="img-content">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
 
         <div class="col-sm-4 blog">
-          <div class="blog-img" style="background:url(./img/b2.jpg);">
+          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/b2.jpg);">
             <h2>Recomenda-cion</h2>
           </div>
           <div class="img-content">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
 
         <div class="col-sm-4 blog">
-          <div class="blog-img"  style="background:url(./img/b3.jpg);">
+          <div class="blog-img"  style="background:url(http://68.183.113.49/wp-content/themes/temp/img/b3.jpg);">
             <h2>Fotografo recomendado</h2>
           </div>
           <div class="img-content">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
@@ -300,7 +313,7 @@ href="" rel="stylesheet">
     <div class="row">
       <div class="col-sm-8">
         <div class="emp-left">
-          <img src="img/com.png">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/com.png">
       </div>
     </div>
     <div class="col-sm-4">
@@ -313,7 +326,7 @@ href="" rel="stylesheet">
               principle-centered process improvements. 
             </p>
             <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
           </div>
         </div>
@@ -322,38 +335,38 @@ href="" rel="stylesheet">
 <div class="emp-nx">
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="img/emp1.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp1.png">
             <h3>Compellingly synthesize holistic methods</h3>
             <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
            
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="img/emp2.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp2.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="img/emp3.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp3.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
@@ -372,9 +385,9 @@ href="" rel="stylesheet">
       <div class="blg-nx">
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="img/b3.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b3.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -386,9 +399,9 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="img/b1.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -400,9 +413,9 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="img/b2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b2.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -414,9 +427,9 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="img/b3.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b3.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -428,9 +441,9 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="img/b1.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -442,9 +455,9 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="img/b2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b2.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -463,7 +476,7 @@ href="" rel="stylesheet">
   <section class="section-div newsletter">
     <div class="container">
       <div class="newsletter-div">
-        <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+        <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.jpg"></h1>
         <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.<br/>
           Noticias, tips, eventos, talleres y más.
         </p>
@@ -562,10 +575,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"</a></li>
             </ul>    
         </div>
 

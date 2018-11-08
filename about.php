@@ -54,11 +54,11 @@
   </div>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/">Home</a></li>
-        <li><a href="escuela">Escuela</a></li>
+        <li><a href="escuela/">Escuela</a></li>
         <li><a href="eventos/">Eventos</a></li>
-        <li><a href="es-o">Galeria ES-O</a></li>
-        <li><a href="lab.html">LAB de impresion</a></li>
-        <li><a href="blog.html">Blog</a></li>
+        <li><a href="es-o/">Galeria ES-O</a></li>
+        <li><a href="lab/">LAB de impresion</a></li>
+        <li><a href="blog/">Blog</a></li>
         <li><form class="searchbox">
         <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
         <input type="submit" class="searchbox-submit" value="">
@@ -203,9 +203,11 @@
                  fototeca, que busca elevar el estándar de 
                  impresión de la imagen. 
                 </p>
-                <button type="btn" class="btn btn-learn ">CONOCE MÁS
-                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
-                </button>
+                <a href="lab/">
+                  <button type="btn" class="btn btn-learn ">CONOCE MÁS
+                    <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                  </button>
+                </a>
               </div>
             </li>
             <li><img src="http://68.183.113.49/wp-content/themes/temp/img/proyectosLab5.png"></li>

@@ -6,29 +6,31 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Fototeca - Blog</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
-
-
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
+  <meta name="description" content="">   
+  <title>Fototeca - Blog</title>   
+  <!-- Favicon -->   
+  <link href="img/favicon.png" rel="icon" type="image/png">   
+  <!-- Fonts -->   
+  <link href="" rel="stylesheet"> 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
+   <link href="http://68.183.113.49/wp-content/themes/temp/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/responsive.css" rel="stylesheet">
 </head>
 
 <body class="newsletter-page">
 
   <div class="for_mobile menu">
-  <header id="header">
-    <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
+    <header id="header">
+      <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
+      <div class="container">
     <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
+     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -79,7 +81,7 @@ href="" rel="stylesheet">
   <div class="container">
     <div class="navbar-header">
      <div class="navbar_logo"><a class="navbar-brand" href="index.html">
-      <img src="img/logo.png">
+      <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -134,15 +136,15 @@ href="" rel="stylesheet">
 
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/blog-slider.png" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Los Angeles">
       </div>
 
       <div class="item">
-        <img src="img/blog-slider.png" alt="Chicago">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Chicago">
       </div>
     
       <div class="item">
-        <img src="img/blog-slider.png" alt="New york">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="New york">
       </div>
     </div>
 
@@ -213,10 +215,10 @@ href="" rel="stylesheet">
     </div>
     <div class="social-icon">
       <ul>
-        <li><a href="#"><img src="img/twitter.png"></a></li>
-        <li><a href="#"><img src="img/facebook.png"></a></li>
-        <li><a href="#"><img src="img/youtube.png"></a></li>
-        <li><a href="#"><img src="img/instagram.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"></a></li>
       </ul> 
     </div>
   </div>
@@ -227,7 +229,7 @@ href="" rel="stylesheet">
     <h1 class="heading">TOP RATED blog posts over here!</h1>
       <div class="post_list">
         <div class="left_post">
-          <img src="img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
           <div class="post-num">
            <h2> 1</h2>
            </div>
@@ -242,7 +244,7 @@ href="" rel="stylesheet">
 
       <div class="post_list">
         <div class="left_post">
-          <img src="img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
           <div class="post-num">
            <h2>2</h2>
            </div>
@@ -257,7 +259,7 @@ href="" rel="stylesheet">
 
       <div class="post_list">
         <div class="left_post">
-          <img src="img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
           <div class="post-num">
            <h2>3</h2>
            </div>
@@ -272,7 +274,7 @@ href="" rel="stylesheet">
 
       <div class="post_list">
         <div class="left_post">
-          <img src="img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
           <div class="post-num">
            <h2>4</h2>
            </div>
@@ -287,7 +289,7 @@ href="" rel="stylesheet">
 
       <div class="post_list">
         <div class="left_post">
-          <img src="img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
           <div class="post-num">
            <h2>5</h2>
            </div>
@@ -304,7 +306,7 @@ href="" rel="stylesheet">
   <div class="col-sm-3">
     <div class="post_list">
         <div class="left_post">
-          <img src="img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
           <div class="post-num">
            <h2> 1</h2>
            </div>
@@ -328,7 +330,7 @@ href="" rel="stylesheet">
   <div class="container">
     <h1 class="heading">illo inventore veritatis et quasi architecto beatae</h1>
       <div class="blog-video">
-        <img src="img/architec.png">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/architec.png">
       </div>
   </div>
 </section>
@@ -336,7 +338,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter nl-div">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.png"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.png"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -354,11 +356,11 @@ href="" rel="stylesheet">
 <section class="section-div empower-div">
    <div class="container">
      <h1 class="heading"><span class="line-border"></span>
-         Te puede interesar<img class="book" src="img/spec-b.png"></h1>
+         Te puede interesar<img class="book" src="http://68.183.113.49/wp-content/themes/temp/img/spec-b.png"></h1>
     <div class="row">
       <div class="col-sm-8">
         <div class="emp-left">
-          <img src="img/com.png">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/com.png">
       </div>
     </div>
     <div class="col-sm-4">
@@ -371,7 +373,7 @@ href="" rel="stylesheet">
               principle-centered process improvements. 
             </p>
             <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
           </div>
         </div>
@@ -380,38 +382,38 @@ href="" rel="stylesheet">
 <div class="emp-nx">
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="img/emp1.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp1.png">
             <h3>Compellingly synthesize holistic methods</h3>
             <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
            
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="img/emp2.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp2.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="img/emp3.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp3.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
@@ -426,7 +428,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.png"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.png"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -443,13 +445,13 @@ href="" rel="stylesheet">
 <section class="section-div partner-sec">
   <div class="container">
     <div class="partner-list">
-      <h1 class="heading">-Partnerships <sub><img src="img/hand.png"></sub></h1>
+      <h1 class="heading">-Partnerships <sub><img src="http://68.183.113.49/wp-content/themes/temp/img/hand.png"></sub></h1>
     <div class="row">
       <div class="part_name">
         <ul>
-          <li><img src="img/fotolab.png"></li>
-          <li><img src="img/canon.png"></li>
-          <li><img src="img/gat.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/temp/img/fotolab.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/temp/img/canon.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/temp/img/gat.png"></li>
         </ul>  
       </div>  
     </div> 
@@ -540,10 +542,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"></a></li>
-               <li><a href="#"><img src="img/youtube.png"></a></li>
-               <li><a href="#"><img src="img/instagram.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"></a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"></a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"></a></li>
             </ul>    
         </div>
 

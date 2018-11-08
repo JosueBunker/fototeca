@@ -6,19 +6,21 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Footeca</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
-
-
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
+  <meta name="description" content="">   
+  <title>Footeca</title>   
+  <!-- Favicon -->   
+  <link href="http://68.183.113.49/wp-content/themes/temp/img/favicon.png" rel="icon" type="image/png">   
+  <!-- Fonts -->   
+  <link href="" rel="stylesheet"> 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
+   <link href="http://68.183.113.49/wp-content/themes/temp/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/responsive.css" rel="stylesheet">
 </head>
 
 <body class="escuela-page">
@@ -27,7 +29,7 @@ href="" rel="stylesheet">
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
   <div class="container">
     <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
+     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -78,7 +80,7 @@ href="" rel="stylesheet">
 <section class="section-div slider-sec escuela-slider for_desctop">
   <div class="container">
   <h1 class="heading"><span class="line-border"></span>Agenda. </h1> 
-   <span class="work-link"><img src="img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/temp/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
   <div id="myCarousel1" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -90,7 +92,7 @@ href="" rel="stylesheet">
     <!-- Wrapper for slides -->
     <div class="carousel-inner slider_sec">
       <div class="item active">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -99,13 +101,13 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
 
       <div class="item">
-        <img src="img/slider.jpg" alt="New york">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/slider.jpg" alt="New york">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -114,13 +116,13 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
     
       <div class="item">
-        <img src="img/slider.jpg" alt="New york">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/slider.jpg" alt="New york">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -129,7 +131,7 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
@@ -162,10 +164,10 @@ href="" rel="stylesheet">
 <section class="section-div slider-sec for_mobile">
   <div class="container">
   <h1 class="heading"><span class="line-border"></span>Agenda. </h1> 
-   <span class="work-link"><img src="img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/temp/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
   
   <div class="mobile_slider">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -174,7 +176,7 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
@@ -184,7 +186,7 @@ href="" rel="stylesheet">
 <section class="section-div holic-div">
    <div class="container">
     <!--div class="holic-bg">
-      <img src="img/holic.png">
+      <img src="http://68.183.113.49/wp-content/themes/temp/img/holic.png">
     </div-->
       <div class="holic">
         <div class="msg-holic">
@@ -199,7 +201,7 @@ href="" rel="stylesheet">
               </ul>
             </div>
             <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
            </button>
       </div>  
    </div>
@@ -212,7 +214,7 @@ href="" rel="stylesheet">
     <div class="row">
         <div class="col-sm-4 teach-div">
           <div class="teach-img">
-            <img src="img/open-book.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/open-book.png">
             <h2>Biblioteca.</h2>
           </div>
           <div class="img-content">
@@ -221,14 +223,14 @@ href="" rel="stylesheet">
           invested services and leading-edge leadership. Assertively drive equity 
         invested alignments whereas.</p>
              <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
 
         <div class="col-sm-4 teach-div">
           <div class="teach-img">
-            <img src="img/thumb-up.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/thumb-up.png">
             <h2>Networking</h2>
           </div>
           <div class="img-content">
@@ -237,14 +239,14 @@ href="" rel="stylesheet">
           invested services and leading-edge leadership. Assertively drive equity 
         invested alignments whereas.</p>
              <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
 
         <div class="col-sm-4 teach-div">
           <div class="teach-img">
-            <img src="img/exhibit.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/exhibit.png">
             <h2>Exhibiciones.</h2>
           </div>
           <div class="img-content">
@@ -253,7 +255,7 @@ href="" rel="stylesheet">
           invested services and leading-edge leadership. Assertively drive equity 
         invested alignments whereas.</p>
              <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
@@ -266,7 +268,7 @@ href="" rel="stylesheet">
       <div class="right-meet">
        <h1>Conoce a los docentes</h1>
         <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
         </button>
     </div>  
    </div>
@@ -290,7 +292,7 @@ href="" rel="stylesheet">
        <div class="item active">
           <div class="head-student"></div>
           <div class="left-slide">
-              <img src="img/stu.png">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/stu.png">
              <div class="stu_info">
                 <h3>John Doe </h3>
                <div class="icon-blog">
@@ -314,9 +316,9 @@ href="" rel="stylesheet">
        </div>
     <div class="right-slide">
       <ul>
-        <li><img src="img/trip1.png"></li>
-        <li><img src="img/trip2.png"></li>
-        <li><img src="img/trip1.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip1.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip2.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip1.png"></li>
       </ul>
     </div>
   </div>
@@ -324,7 +326,7 @@ href="" rel="stylesheet">
      <div class="item">
           <div class="head-student"></div>
           <div class="left-slide">
-            <img src="img/stu.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/stu.png">
            <div class="stu_info">
                 <h3>John Doe </h3>
                <div class="icon-blog">
@@ -348,9 +350,9 @@ href="" rel="stylesheet">
      </div>
     <div class="right-slide">
       <ul>
-        <li><img src="img/trip1.png"></li>
-        <li><img src="img/trip2.png"></li>
-        <li><img src="img/trip1.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip1.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip2.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip1.png"></li>
       </ul>
     </div>
   </div>
@@ -359,7 +361,7 @@ href="" rel="stylesheet">
       <div class="item">
         <div class="head-student"></div>
           <div class="left-slide">
-            <img src="img/stu.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/stu.png">
            <div class="stu_info">
                 <h3>John Doe </h3>
                <div class="icon-blog">
@@ -383,9 +385,9 @@ href="" rel="stylesheet">
      </div>
     <div class="right-slide">
       <ul>
-        <li><img src="img/trip1.png"></li>
-        <li><img src="img/trip2.png"></li>
-        <li><img src="img/trip1.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip1.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip2.png"></li>
+        <li><img src="http://68.183.113.49/wp-content/themes/temp/img/trip1.png"></li>
       </ul>
     </div>
     </div>
@@ -415,10 +417,10 @@ href="" rel="stylesheet">
 <!-- <section class="section-div slider-sec for_mobile">
   <div class="container">
   <h1 class="heading">-Alumnos <br>Destacados </h1> 
-   <span class="work-link"><img src="img/right_hand.png"> "¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/temp/img/right_hand.png"> "¡Faltan 12 días para este taller!"</span> 
   
   <div class="mobile_slider">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/temp/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -427,7 +429,7 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
@@ -536,7 +538,7 @@ href="" rel="stylesheet">
   </div>
  <div class="col-md-6">
   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-      <img src="img/right-arrow.png" class="right_angel_ar">
+      <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
   </button>
  </div>
 </div>
@@ -557,10 +559,10 @@ href="" rel="stylesheet">
       </div>
         <div class="col-sm-4 col-xs-6 full_width">
           <div class="blg-div">
-            <img src="img/b2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b2.jpg">
             <div class="staff-name">
               <div class="staff-name-arrow">
-                <img  class="turn-rt" src="img/turn-right.png">
+                <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               </div>
               <div class="staff-name-text">
                 <h1>John Doe</h1>
@@ -575,10 +577,10 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4  col-xs-6 full_width">
           <div class="blg-div">
-            <img src="img/b3.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b3.jpg">
             <div class="staff-name">
               <div class="staff-name-arrow">
-                <img  class="turn-rt" src="img/turn-right.png">
+                <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               </div>
               <div class="staff-name-text">
                 <h1>John Doe</h1>
@@ -590,10 +592,10 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4 col-xs-6 full_width">
           <div class="blg-div">
-            <img src="img/b1.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
             <div class="staff-name">
               <div class="staff-name-arrow">
-                <img  class="turn-rt" src="img/turn-right.png">
+                <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               </div>
               <div class="staff-name-text">
                 <h1>John Doe</h1>
@@ -605,10 +607,10 @@ href="" rel="stylesheet">
 
       <div class="col-sm-4  col-xs-6 full_width">
           <div class="blg-div">
-            <img src="img/b2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/b2.jpg">
             <div class="staff-name">
               <div class="staff-name-arrow">
-                <img  class="turn-rt" src="img/turn-right.png">
+                <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
               </div>
               <div class="staff-name-text">
                 <h1>John Doe</h1>
@@ -627,7 +629,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -724,10 +726,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"</a></li>
             </ul>    
         </div>
 
