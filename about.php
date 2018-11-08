@@ -54,9 +54,9 @@
   </div>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/">Home</a></li>
-        <li><a href="escuela.html">Escuela</a></li>
-        <li><a href="eventos.html">Eventos</a></li>
-        <li><a href="es-o.html">Galeria ES-O</a></li>
+        <li><a href="escuela">Escuela</a></li>
+        <li><a href="eventos/">Eventos</a></li>
+        <li><a href="es-o">Galeria ES-O</a></li>
         <li><a href="lab.html">LAB de impresion</a></li>
         <li><a href="blog.html">Blog</a></li>
         <li><form class="searchbox">

@@ -45,7 +45,7 @@
             </form>
           </div>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="/about/">About</a></li>
+            <li><a href="about/">About</a></li>
             <li><a href="Escuela.html">Escuela</a></li>
             <li><a href="Eventos.html">Eventos</a></li>
             <li><a href="es-o.html">Galeria ES-O</a></li>
