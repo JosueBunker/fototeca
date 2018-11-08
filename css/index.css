@@ -1,4 +1,7 @@
 
+.top_head .sub_sec button {
+    margin-top: 3%;
+}
 .tour-div .lrn-div button {
     font-size: 20px;
     font-weight: bold;
@@ -18,6 +21,10 @@
 
 
 @media(max-width: 1200px) {
+
+    .top_head .sub_sec h2 {
+        font-size: 38px;
+    }
 
     .blog-div .right-blog  {
         margin-left: 30px;
@@ -45,6 +52,11 @@
 }
 
 @media(max-width: 767px) {
+
+    .top_head .sub_sec h2 {
+        font-size: 30px;
+    }
+
     .blog-div .right-blog {
         margin: 0px;
     }
@@ -54,3 +66,8 @@
     }
 }
 
+@media(max-width: 479px) {
+    .top_head .sub_sec h2 {
+        font-size: 20px;
+    }
+}

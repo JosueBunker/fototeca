@@ -1,14 +1,5 @@
-/*
-Theme Name: Fototeca
-Theme URI: http://wordpress.org/themes/twentythirteen
-Author: Bunker
-Description: The fototeca web page developed by Bunker
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: bunker
-Text Domain: fototeca
-*/
+
+
 @font-face {
   font-family: 'Graphik-Regular';
   src: url('../fonts/Graphik-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/Graphik-Regular.otf')  format('opentype'),
