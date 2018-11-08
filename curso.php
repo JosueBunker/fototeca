@@ -1,3 +1,8 @@
+<?php 
+/*
+    Template Name: Curso
+*/
+?>
 <!DOCTYPE html>
 <html>
 

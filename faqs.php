@@ -1,3 +1,8 @@
+<?php 
+/*
+    Template Name: Faqs
+*/
+?>
 <!DOCTYPE html>
 <html>
 

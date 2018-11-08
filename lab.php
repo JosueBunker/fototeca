@@ -1,3 +1,8 @@
+<?php 
+/*
+    Template Name: Lab
+*/
+?>
 <!DOCTYPE html>
 <html>
 

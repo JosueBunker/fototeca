@@ -1,3 +1,8 @@
+<?php 
+/*
+    Template Name: About
+*/
+?>
 <!DOCTYPE html>
 <html>
 
@@ -11,10 +16,11 @@
   <!-- Icons -->  
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
-  <link href="css/about.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/temp/css/about.css" rel="stylesheet">
+  <?php wp_head();?>
 </head>
 
 <body class="about-page">
@@ -26,8 +32,8 @@
           <div class="navbar-header">
          
             <div class="navbar_logo">
-              <a class="navbar-brand" href="index.html">
-                <img src="img/logo.png">
+              <a class="navbar-brand" href="/">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
               </a>
             </div>
       
@@ -47,7 +53,7 @@
     </form>
   </div>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.html">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="escuela.html">Escuela</a></li>
         <li><a href="eventos.html">Eventos</a></li>
         <li><a href="es-o.html">Galeria ES-O</a></li>
@@ -91,7 +97,7 @@
         </div>
         <div class="col-sm-6"> 
           <div class="right">
-            <!-- <img src="img/luz.png"> -->
+            <!-- <img src="http://68.183.113.49/wp-content/themes/temp/img/luz.png"> -->
           </div>
         </div>
       </div>
@@ -115,10 +121,10 @@
             <h1>La Fototeca es:</h1>
           </div>
           <div class="head-bg">
-            <img src="img/about-bg.png">
-            <img class="luz" src="img/luz.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/about-bg.png">
+            <img class="luz" src="http://68.183.113.49/wp-content/themes/temp/img/luz.png">
           </div>
-        <!-- <img src="img/about-bg.png"> -->
+        <!-- <img src="http://68.183.113.49/wp-content/themes/temp/img/about-bg.png"> -->
         <div class="about_subhead">
       <h2>
         Promover, celebrar,
@@ -137,13 +143,13 @@
       <div class="col-sm-6">
         <div class="state-gallery">
           <div class="sgall-img1">
-            <img src="img/eso1.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/eso1.png">
           </div>
           <div class="sgall-img2">
-            <img src="img/eso2.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/eso2.png">
           </div> 
           <div class="sgall-img3">
-            <img src="img/eso3.png">
+            <img src="http://68.183.113.49/wp-content/themes/temp/img/eso3.png">
           </div> 
         </div>
       </div>
@@ -181,7 +187,7 @@
    <div class="container">
     <h1 class="heading margin_80">
       <span class="line-border"></span>
-       Proyectos.<img class="book"src="img/pro.png">
+       Proyectos.<img class="book"src="http://68.183.113.49/wp-content/themes/temp/img/pro.png">
      </h1>
 
      <div class="row">
@@ -191,27 +197,27 @@
             <li class="elab">
               <div class="elab-inner">
                 <h2>El Lab</h2>
-                <img src="img/proyectosLab1.png">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/proyectosLab1.png">
                 <p>El LAB es el Laboratorio de Impresión Fina y 
                  estudios de Fotografía Profesional de la 
                  fototeca, que busca elevar el estándar de 
                  impresión de la imagen. 
                 </p>
                 <button type="btn" class="btn btn-learn ">CONOCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                 </button>
               </div>
             </li>
-            <li><img src="img/proyectosLab5.png"></li>
+            <li><img src="http://68.183.113.49/wp-content/themes/temp/img/proyectosLab5.png"></li>
           </ul>
         </div>
       </div>
       <div class="col-sm-6">
         <div class="proy_right">
           <ul>
-            <li><img src="img/proyectosLab2.png"></li>
-            <li><img src="img/proyectosLab4.png"></li>
-            <li><img src="img/proyectosLab3.png"></li>
+            <li><img src="http://68.183.113.49/wp-content/themes/temp/img/proyectosLab2.png"></li>
+            <li><img src="http://68.183.113.49/wp-content/themes/temp/img/proyectosLab4.png"></li>
+            <li><img src="http://68.183.113.49/wp-content/themes/temp/img/proyectosLab3.png"></li>
           </ul>
         </div>
       </div>
@@ -224,7 +230,7 @@
    <div class="container">
     <h1 class="heading">
       <span class="line-border"></span>
-       Charlas <br><span class="flight_span">Internacionales</span><img class="book"src="img/plane.png">
+       Charlas <br><span class="flight_span">Internacionales</span><img class="book"src="http://68.183.113.49/wp-content/themes/temp/img/plane.png">
      </h1>
     <div class="row">
       <div class="col-sm-12">
@@ -249,7 +255,7 @@
     <div class="container">
       <h1 class="heading">
         <span class="line-border"></span>
-          Nuestra <br><span class="flight_span">Trayectoria</span><img class="book"src="img/timer.png">
+          Nuestra <br><span class="flight_span">Trayectoria</span><img class="book"src="http://68.183.113.49/wp-content/themes/temp/img/timer.png">
       </h1>
        
       <div class="row">
@@ -264,11 +270,11 @@
             </p>
             <div class="track-img">
               <div class="left-img">
-                <img src="img/lab5.png">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/lab5.png">
               </div>
               <div class="right-img">
-                <img src="img/lab6.png">
-                <img src="img/lab7.png">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/lab6.png">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/lab7.png">
               </div>
             </div>
           </div>
@@ -703,18 +709,18 @@
       <h1 class="heading"><span class="line-border"></span>
         Conoce nuestras<br> <span class="flight_span">instalaciones</span></h1>
         <div class="heading-icon">
-          <img src="img/down-fing.png">
+          <img src="http://68.183.113.49/wp-content/themes/temp/img/down-fing.png">
         </div>
       <div class="row">
        <div class="col-sm-4">
            <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/about4.png);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/about4.png);">
             </div>
             <div class="tour-caption">
              <h3>Atelier</h3>
             <div class="lrn-div">
                  <button type="btn" class="btn btn-learn btn_withborderb">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
             </div>
@@ -723,13 +729,13 @@
 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/about5.png);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/about5.png);">
              </div>
             <div class="tour-caption">
                <h3>3er Nivel</h3>
               <div class="lrn-div">
                  <button type="btn" class="btn btn-learn btn_withborderb">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
             </div>
@@ -738,13 +744,13 @@
 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/about4.png);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/about4.png);">
              </div>
             <div class="tour-caption">
               <h3>Museo de Cámaras</h3>
              <div class="lrn-div">
                  <button type="btn" class="btn btn-learn btn_withborderb">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
             </div>
@@ -752,13 +758,13 @@
           </div> 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/about5.png);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/about5.png);">
              </div>
             <div class="tour-caption">
               <h3>Biblioteca y <br>  LAB de<br> Impresión</h3>
              <div class="lrn-div">
                  <button type="btn" class="btn btn-learn btn_withborderb">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
             </div>
@@ -766,13 +772,13 @@
           </div>
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/about4.png);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/about4.png);">
              </div>
             <div class="tour-caption">
              <h3>Café <br>  Despierto</h3>
              <div class="lrn-div">
                  <button type="btn" class="btn btn-learn btn_withborderb">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
             </div>
@@ -780,13 +786,13 @@
           </div> 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/about5.png);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/about5.png);">
              </div>
             <div class="tour-caption">
              <h3>Sótano 2</h3>
              <div class="lrn-div">
                  <button type="btn" class="btn btn-learn btn_withborderb">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
             </div>
@@ -801,7 +807,7 @@
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.<br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -899,10 +905,10 @@
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"</a></li>
             </ul>    
         </div>
 
@@ -973,4 +979,4 @@
 </script>
 </body>
 
-</html>
+</html>f

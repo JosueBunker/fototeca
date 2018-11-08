@@ -16,6 +16,7 @@
   <link href="<?php echo get_template_directory_uri(); ?>/css/style.css" rel="stylesheet" type="text/css" media="all">
   <link href="<?php echo get_template_directory_uri(); ?>/css/responsive.css" rel="stylesheet" type="text/css" media="all">
   <link href="<?php echo get_template_directory_uri(); ?>/css/index.css" rel="stylesheet" type="text/css" media="all">
+  <?php wp_head();?>
 </head>
 
 <body>
@@ -25,8 +26,8 @@
       <div class="container">
         <div class="navbar-header">
           <div class="navbar_logo">
-            <a class="navbar-brand" href="index.html">
-              <img src="img/logo.png">
+            <a class="navbar-brand" href="/">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/logo.png">
             </a>
           </div>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -44,7 +45,7 @@
             </form>
           </div>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="about.html">About</a></li>
+            <li><a href="/about/">About</a></li>
             <li><a href="Escuela.html">Escuela</a></li>
             <li><a href="Eventos.html">Eventos</a></li>
             <li><a href="es-o.html">Galeria ES-O</a></li>
@@ -103,12 +104,12 @@
             y diplomados, organizamos charlas, exhibiciones y<br/>
             eventos 
           </p>
-          <a href="about.html">
+          <a href="about.php">
             <button type="btn" class="btn btn-learn ">CONOCE MÁS
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
             </button>
           </a>
-          <img src="img/camera.jpg" class="icon_img">
+          <img src="<?php echo get_template_directory_uri(); ?>/img/camera.jpg" class="icon_img">
           </div>
         </div> 
       </div>
@@ -118,7 +119,7 @@
 <section class="section-div slider-sec for_desctop">
   <div class="container">
   <h1 class="heading"><span class="line-border"></span> Próximos  <span class="block-next-heading">Talleres.</span>     </h1> 
-   <span class="work-link"><img src="img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="<?php echo get_template_directory_uri(); ?>/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -130,7 +131,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner slider_sec">
       <div class="item active">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -140,14 +141,14 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
           </div>
         </div>
 
       <div class="item">
-        <img src="img/slider.jpg" alt="Chicago">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="Chicago">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -157,14 +158,14 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
         </div>
       </div>
     
       <div class="item">
-        <img src="img/slider.jpg" alt="New york">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="New york">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -174,7 +175,7 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
         </div>
@@ -208,10 +209,10 @@
 <section class="section-div slider-sec for_mobile">
   <div class="container">
     <h1 class="heading"><span class="line-border"></span> Próximos  <span class="block-next-heading">Talleres.</span></h1> 
-   <span class="work-link"><img src="img/right_hand.png"> "¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="<?php echo get_template_directory_uri(); ?>/img/right_hand.png"> "¡Faltan 12 días para este taller!"</span> 
   
   <div class="mobile_slider">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -221,7 +222,7 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
         </div>
@@ -232,12 +233,12 @@
 <section class="section-div tour-div">
    <div class="container">
     <div class="main_section">
-      <h1 class="heading"><span class="line-border"></span> Recorrido Académico <img class="book" src="img/open-book.png"></h1>
+      <h1 class="heading"><span class="line-border"></span> Recorrido Académico <img class="book" src="<?php echo get_template_directory_uri(); ?>/img/open-book.png"></h1>
       <div class="row">
         <div class="col-sm-6">
           <div class="acd-tour">
-            <div class="tour-img" style="background:url(./img/s1.jpg);">
-             <!--  <img src="img/s1.jpg"> -->
+            <div class="tour-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s1.jpg);">
+             <!--  <img src="<?php echo get_template_directory_uri(); ?>/img/s1.jpg"> -->
             </div>
             <div class="tour-caption">
               <h1 class="num">1</h1>
@@ -246,7 +247,7 @@
               <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborder btn-top">CONOCE MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -256,8 +257,8 @@
 
           <div class="col-sm-6">
             <div class="acd-tour">
-            <div class="tour-img" style="background:url(./img/s2.jpg);">
-              <!-- <img src="img/s2.jpg"> -->
+            <div class="tour-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s2.jpg);">
+              <!-- <img src="<?php echo get_template_directory_uri(); ?>/img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
               <h1 class="num">2</h1>
@@ -266,7 +267,7 @@
               <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborder btn-top">CONOCE MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -276,7 +277,7 @@
 
           <div class="col-sm-4">
            <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/s3.jpg);">
+            <div class="tour-img tour_img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s3.jpg);">
             </div>
             <div class="tour-caption chng-col">
               <h1 class="num">3</h1>
@@ -288,7 +289,7 @@
             <div class="lrn-div">
               <a href="curso.html">
                 <button type="btn" class="btn btn-learn btn_withborderb">CONOCE MÁS
-                  <img src="img/right-arrow2.png" class="right_angel_ar">
+                  <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow2.png" class="right_angel_ar">
                 </button>
               </a>
             </div>
@@ -298,7 +299,7 @@
 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/s4.jpg);">
+            <div class="tour-img tour_img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s4.jpg);">
              </div>
             <div class="tour-caption">
                <h1 class="num">4</h1>
@@ -308,7 +309,7 @@
               <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -318,7 +319,7 @@
 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(./img/s5.jpg);">
+            <div class="tour-img tour_img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s5.jpg);">
              </div>
             <div class="tour-caption chng-col">
               <h1 class="num">5</h1>
@@ -328,7 +329,7 @@
              <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborderb">CONOCE MÁS
-                    <img src="img/right-arrow2.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow2.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -360,7 +361,7 @@
             <p><a href="#">ALUMNO DESTACADO</a></p>
             <div class="inner-blog">
               <h1>Juan Pablo <br/>Ochoa</h1>
-              <img class="like-img" src="img/like.png">
+              <img class="like-img" src="<?php echo get_template_directory_uri(); ?>/img/like.png">
             </div>
           </div>
           <div class="cont_section">
@@ -372,7 +373,7 @@
                   <p><a href="#">ALUMNO DESTACADO</a></p>
                   <div class="inner-blog">
                     <h1>Juan Pablo <br/>Ochoa</h1>
-                    <img class="like-img" src="img/like.png">
+                    <img class="like-img" src="<?php echo get_template_directory_uri(); ?>/img/like.png">
                   </div>
                 </div>
                 <p>Objectively re-engineer virtual outsourcing whereas 
@@ -383,7 +384,7 @@
                 </p>
                 <a href="blog.html">
                   <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -395,7 +396,7 @@
 
               <div class="col-sm-4 blog">
                 <h2 class="mobile-heading">Foto del día</h2>
-                <div class="blog-img" style="background:url(./img/b1.jpg);">
+                <div class="blog-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/b1.jpg);">
                   <h2 class="web-heding">Foto del día</h2>
                 </div>
                 <div class="img-content">
@@ -403,14 +404,14 @@
                     whereas cross-media applications. 
                   </p>
                   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </div>
               </div> 
 
               <div class="col-sm-4 blog">
                 <h2 class="mobile-heading">Recomenda-cion</h2>
-                <div class="blog-img" style="background:url(./img/b2.jpg);">
+                <div class="blog-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/b2.jpg);">
                   <h2 class="web-heding">Recomenda-cion</h2>
                 </div>
                 <div class="img-content">
@@ -418,14 +419,14 @@
                     whereas cross-media applications.
                   </p>
                   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </div>
               </div> 
 
               <div class="col-sm-4 blog">
                 <h2 class="mobile-heading">Fotógrafo recomendado</h2>
-                <div class="blog-img"  style="background:url(./img/b3.jpg);">
+                <div class="blog-img"  style="background:url(<?php echo get_template_directory_uri(); ?>/img/b3.jpg);">
                   <h2 class="web-heding">Fotografo recomendado</h2>
                 </div>
                 <div class="img-content">
@@ -433,7 +434,7 @@
                     whereas cross-media applications.
                   </p>
                   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                    <img src="img/right-arrow.png" class="right_angel_ar">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </div>
               </div> 
@@ -448,7 +449,7 @@
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="<?php echo get_template_directory_uri(); ?>/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -465,13 +466,13 @@
 <section class="section-div partner-sec">
   <div class="container">
     <div class="partner-list">
-      <h1 class="heading"><span class="line-border"></span> Partnerships <sub><img src="img/hand.png"></sub></h1>
+      <h1 class="heading"><span class="line-border"></span> Partnerships <sub><img src="<?php echo get_template_directory_uri(); ?>/img/hand.png"></sub></h1>
     <div class="row">
       <div class="part_name">
         <ul>
-          <li><img src="img/fotolab.png"></li>
-          <li><img src="img/canon.png"></li>
-          <li><img src="img/gat.png"></li>
+          <li><img src="<?php echo get_template_directory_uri(); ?>/img/fotolab.png"></li>
+          <li><img src="<?php echo get_template_directory_uri(); ?>/img/canon.png"></li>
+          <li><img src="<?php echo get_template_directory_uri(); ?>/img/gat.png"></li>
         </ul>  
       </div>  
     </div> 
@@ -562,10 +563,10 @@
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png"></a></li>
+              <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png"</a></li>
+               <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/youtube.png"</a></li>
+               <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram.png"</a></li>
             </ul>    
         </div>
 
@@ -577,63 +578,64 @@
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
 
-<script type="text/javascript">
-   $('.navbar-toggle').click(function(){
-          if($('body').hasClass('head_body')){
-              $('body').removeClass('head_body');
-          } else{
-            $('body').addClass('head_body');
-          }
-             
-            });
-  $(document).ready(function(){
-     
-
-            var submitIcon = $('.searchbox-icon');
-            var inputBox = $('.searchbox-input');
-            var searchBox = $('.searchbox');
-            var isOpen = false;
-            submitIcon.click(function(){
-                if(isOpen == false){
-                    searchBox.addClass('searchbox-open');
-                    inputBox.focus();
-                    isOpen = true;
-                } else {
-                    searchBox.removeClass('searchbox-open');
-                    inputBox.focusout();
-                    isOpen = false;
-                }
-            });  
-             submitIcon.mouseup(function(){
-                    return false;
-                });
-            searchBox.mouseup(function(){
-                    return false;
-                });
-            $(document).mouseup(function(){
-                    if(isOpen == true){
-                        $('.searchbox-icon').css('display','block');
-                        submitIcon.click();
-                    }
-                });
-        });
-            function buttonUp(){
-                var inputVal = $('.searchbox-input').val();
-                inputVal = $.trim(inputVal).length;
-                if( inputVal !== 0){
-                    $('.searchbox-icon').css('display','block');
-                } else {
-                    $('.searchbox-input').val('');
-                    $('.searchbox-icon').css('display','block');
-                }
+  <script type="text/javascript">
+     $('.navbar-toggle').click(function(){
+            if($('body').hasClass('head_body')){
+                $('body').removeClass('head_body');
+            } else{
+              $('body').addClass('head_body');
             }
+               
+              });
+    $(document).ready(function(){
+       
+
+              var submitIcon = $('.searchbox-icon');
+              var inputBox = $('.searchbox-input');
+              var searchBox = $('.searchbox');
+              var isOpen = false;
+              submitIcon.click(function(){
+                  if(isOpen == false){
+                      searchBox.addClass('searchbox-open');
+                      inputBox.focus();
+                      isOpen = true;
+                  } else {
+                      searchBox.removeClass('searchbox-open');
+                      inputBox.focusout();
+                      isOpen = false;
+                  }
+              });  
+               submitIcon.mouseup(function(){
+                      return false;
+                  });
+              searchBox.mouseup(function(){
+                      return false;
+                  });
+              $(document).mouseup(function(){
+                      if(isOpen == true){
+                          $('.searchbox-icon').css('display','block');
+                          submitIcon.click();
+                      }
+                  });
+          });
+              function buttonUp(){
+                  var inputVal = $('.searchbox-input').val();
+                  inputVal = $.trim(inputVal).length;
+                  if( inputVal !== 0){
+                      $('.searchbox-icon').css('display','block');
+                  } else {
+                      $('.searchbox-input').val('');
+                      $('.searchbox-icon').css('display','block');
+                  }
+              }
 
 
-</script>
+  </script>
+  <?php wp_footer();?>
 </body>
 
 </html>

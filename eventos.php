@@ -1,3 +1,8 @@
+<?php 
+/*
+    Template Name: Eventos
+*/
+?>
 <!DOCTYPE html>
 <html>
 

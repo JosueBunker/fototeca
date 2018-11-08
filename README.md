@@ -1,5 +1,5 @@
 
 
-#Fototeca
+# Fototeca
 
-##Repository in php for the Fototeca web page
+## Repository in php for the Fototeca web page

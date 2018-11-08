@@ -1,3 +1,8 @@
+<?php 
+/*
+    Template Name: Blog-Post
+*/
+?>
 <!DOCTYPE html>
 <html>
 
