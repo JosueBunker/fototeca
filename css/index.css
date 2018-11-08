@@ -1,0 +1,56 @@
+
+.tour-div .lrn-div button {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px;
+}
+.tour-div .lrn-div button.btn-top {
+    font-size: 30px;
+}
+
+
+.newsletter .subcribr-btn button.btn.btn-sub {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+@media(max-width: 1200px) {
+
+    .blog-div .right-blog  {
+        margin-left: 30px;
+        margin-right: -30px;
+    }
+    .blog-div .right-blog .stu-div h1 {
+        font-size: 60px;
+    }
+    .blog-div .right-blog .stu-div button {
+        font-size: 20px;
+    }
+}
+
+
+@media(max-width: 990px) {
+    .blog-div .right-blog .stu-div p {
+        margin: 0px;
+    }
+    .blog-div .right-blog .stu-div p a {
+        font-size: 18px;
+    }
+    .blog-div .right-blog .stu-div h1 {
+        font-size: 40px;
+    }
+}
+
+@media(max-width: 767px) {
+    .blog-div .right-blog {
+        margin: 0px;
+    }
+    .blog-div .right-blog, .blog-div .left-blog {
+        float: none;
+        width: 90%;
+    }
+}
+
