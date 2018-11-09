@@ -144,7 +144,7 @@
                 <span class="main_head_span">las imágenes</span></h1>
                 <p>16 de junio / Por: Jane Doe</p>
               </div>
-              <a href="blog-post/">
+              <a href="/blog-post/">
                 <button type="btn" class="btn btn-learn">CONOCE MÁS 
                   <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                 </button>
@@ -161,7 +161,7 @@
                 <span class="main_head_span">las imágenes</span></h1>
                 <p>16 de junio / Por: Jane Doe</p>
               </div>
-              <a href="blog-post/">
+              <a href="../blog-post/">
                 <button type="btn" class="btn btn-learn">CONOCE MÁS 
                   <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                 </button>
