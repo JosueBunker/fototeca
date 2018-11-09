@@ -113,9 +113,9 @@ href="" rel="stylesheet">
             eventos 
           </p>
           <button type="btn" class="btn btn-learn">Conoce más 
-            <img src="img/right-arrow.png" class="right_angel_ar">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
           </button>
-          <img src="img/camera.jpg" class="icon_img">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/camera.jpg" class="icon_img">
           </div>
         </div> 
       </div>
@@ -126,7 +126,7 @@ href="" rel="stylesheet">
 <section class="section-div slider-sec for_desctop">
   <div class="container">
   <h1 class="heading"><span class="line-border"></span>Próximos  <br><span class="block-next-heading">Talleres.</span>     </h1> 
-   <span class="work-link"><img src="img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -138,7 +138,7 @@ href="" rel="stylesheet">
     <!-- Wrapper for slides -->
     <div class="carousel-inner slider_sec">
       <div class="item active">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -147,13 +147,13 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
 
       <div class="item">
-        <img src="img/slider.jpg" alt="Chicago">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="Chicago">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -162,13 +162,13 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
     
       <div class="item">
-        <img src="img/slider.jpg" alt="New york">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="New york">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -177,7 +177,7 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
@@ -210,10 +210,10 @@ href="" rel="stylesheet">
 <section class="section-div slider-sec for_mobile">
   <div class="container">
   <h1 class="heading"><span class="line-border"></span>Próximos  <br>Talleres.     </h1> 
-   <span class="work-link"><img src="img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
   
   <div class="mobile_slider">
-        <img src="img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -222,7 +222,7 @@ href="" rel="stylesheet">
              <p>16 de junio / imparte: Jane Doe</p>
             </div>
            <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
         </div>
       </div>
@@ -247,7 +247,7 @@ href="" rel="stylesheet">
 <section class="section-div slider-sec academic-div for_desctop">
   <div class="container">
    <h1 class="heading"><span class="line-border"></span>Recorrido Académico
-    <img class="book" src="img/open-book.png"></h1> 
+    <img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/open-book.png"></h1> 
   <div id="myCarousel1" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -263,7 +263,7 @@ href="" rel="stylesheet">
             <div class="col-sm-4">
             <div class="acd-tour top_div">
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
                 <h1 class="num n1">1</h1>
@@ -284,7 +284,7 @@ href="" rel="stylesheet">
                    de la imagen y su representación del mundo 
                    a través del cuerpo y el espacio. </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -293,7 +293,7 @@ href="" rel="stylesheet">
             <div class="col-sm-3">
             <div class="acd-tour middle_div">
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
                 <h1 class="num n2">2</h1>
@@ -309,7 +309,7 @@ href="" rel="stylesheet">
                    artificial, posproduccion, y presentacion de un portafolio basico.
                  </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -318,7 +318,7 @@ href="" rel="stylesheet">
        <div class="col-sm-5">
           <div class="acd-tour bottom_div">
             <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
-              <!-- <img src="img/s2.jpg"> -->
+              <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
               <h1 class="num n3">3</h1>
@@ -337,7 +337,7 @@ href="" rel="stylesheet">
                 comercial, artístico o documental según el campo con 
                 el que mas se identifique el estudiante.</p>
                  <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
           </div>
@@ -350,7 +350,7 @@ href="" rel="stylesheet">
             <div class="col-sm-4">
             <div class="acd-tour top_div">
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
                 <h1 class="num n1">1</h1>
@@ -371,7 +371,7 @@ href="" rel="stylesheet">
                    de la imagen y su representación del mundo 
                    a través del cuerpo y el espacio. </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -380,7 +380,7 @@ href="" rel="stylesheet">
             <div class="col-sm-3">
             <div class="acd-tour middle_div">
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
                 <h1 class="num n2">2</h1>
@@ -396,7 +396,7 @@ href="" rel="stylesheet">
                    artificial, posproduccion, y presentacion de un portafolio basico.
                  </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -405,7 +405,7 @@ href="" rel="stylesheet">
        <div class="col-sm-5">
           <div class="acd-tour bottom_div">
             <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
-              <!-- <img src="img/s2.jpg"> -->
+              <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
               <h1 class="num n3">3</h1>
@@ -424,7 +424,7 @@ href="" rel="stylesheet">
                 comercial, artístico o documental según el campo con 
                 el que mas se identifique el estudiante.</p>
                  <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
           </div>
@@ -438,7 +438,7 @@ href="" rel="stylesheet">
             <div class="col-sm-4">
             <div class="acd-tour top_div">
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
                 <h1 class="num n1">1</h1>
@@ -459,7 +459,7 @@ href="" rel="stylesheet">
                    de la imagen y su representación del mundo 
                    a través del cuerpo y el espacio. </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -468,7 +468,7 @@ href="" rel="stylesheet">
             <div class="col-sm-3">
             <div class="acd-tour middle_div">
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
                 <h1 class="num n2">2</h1>
@@ -484,7 +484,7 @@ href="" rel="stylesheet">
                    artificial, posproduccion, y presentacion de un portafolio basico.
                  </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -493,7 +493,7 @@ href="" rel="stylesheet">
        <div class="col-sm-5">
           <div class="acd-tour bottom_div">
             <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
-              <!-- <img src="img/s2.jpg"> -->
+              <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
               <h1 class="num n3">3</h1>
@@ -512,7 +512,7 @@ href="" rel="stylesheet">
                 comercial, artístico o documental según el campo con 
                 el que mas se identifique el estudiante.</p>
                  <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
           </div>
@@ -537,7 +537,7 @@ href="" rel="stylesheet">
 <section class="section-div slider-sec academic-div for_mobile">
   <div class="container">
    <h1 class="heading"><span class="line-border"></span>Recorrido Académico
-    <img class="book" src="img/open-book.png"></h1>
+    <img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/open-book.png"></h1>
    
          <div class="row">
             <div class="col-sm-4">
@@ -549,7 +549,7 @@ href="" rel="stylesheet">
               </div>
            </h2>
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
              <h2 class="web-heading">  
                 <div class="tour-caption">
@@ -572,7 +572,7 @@ href="" rel="stylesheet">
                    de la imagen y su representación del mundo 
                    a través del cuerpo y el espacio. </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -587,7 +587,7 @@ href="" rel="stylesheet">
                </div>
            </h2>
               <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
-                <!-- <img src="img/s2.jpg"> -->
+                <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
                </div>
              <h2 class="web-heading">  
                 <div class="tour-caption">
@@ -605,7 +605,7 @@ href="" rel="stylesheet">
                    artificial, posproduccion, y presentacion de un portafolio basico.
                  </p>
                    <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                  <img src="img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                    </button>
                 </div>
             </div>
@@ -621,7 +621,7 @@ href="" rel="stylesheet">
               </div>
             </h2>
             <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
-              <!-- <img src="img/s2.jpg"> -->
+              <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
              </div>
             <h2 class="web-heading">  
                 <div class="tour-caption">
@@ -642,7 +642,7 @@ href="" rel="stylesheet">
                 comercial, artístico o documental según el campo con 
                 el que mas se identifique el estudiante.</p>
                  <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
               </div>
           </div>
@@ -670,7 +670,7 @@ href="" rel="stylesheet">
           <p><a href="#">ALUMNO DESTACADO</a></p>
           <div class="inner-blog">
             <h1>Juan Pablo <br/>Ochoa</h1>
-            <img class="like-img" src="img/like.png">
+            <img class="like-img" src="http://68.183.113.49/wp-content/themes/fototeca/img/like.png">
          </div>
          </div>
         <div class="cont_section">
@@ -682,7 +682,7 @@ href="" rel="stylesheet">
               <p><a href="#">ALUMNO DESTACADO</a></p>
               <div class="inner-blog">
                 <h1>Juan Pablo <br/>Ochoa</h1>
-                <img class="like-img" src="img/like.png">
+                <img class="like-img" src="http://68.183.113.49/wp-content/themes/fototeca/img/like.png">
              </div>
              </div>
               <p>Objectively re-engineer virtual outsourcing whereas 
@@ -692,7 +692,7 @@ href="" rel="stylesheet">
               principle-centered process improvements. 
             </p>
               <button type="btn" class="btn btn-learn btn_withborder">CONÓCE MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
           </div>  
@@ -710,7 +710,7 @@ href="" rel="stylesheet">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
@@ -724,7 +724,7 @@ href="" rel="stylesheet">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
@@ -738,7 +738,7 @@ href="" rel="stylesheet">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
@@ -753,7 +753,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.<br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -771,13 +771,13 @@ href="" rel="stylesheet">
 <section class="section-div partner-sec">
   <div class="container">
     <div class="partner-list">
-      <h1 class="heading">-Partnerships <sub><img src="img/hand.png"></sub></h1>
+      <h1 class="heading">-Partnerships <sub><img src="http://68.183.113.49/wp-content/themes/fototeca/img/hand.png"></sub></h1>
     <div class="row">
       <div class="part_name">
         <ul>
-          <li><img src="img/fotolab.png"></li>
-          <li><img src="img/canon.png"></li>
-          <li><img src="img/gat.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/fotolab.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/canon.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/gat.png"></li>
         </ul>  
       </div>  
     </div> 
@@ -868,10 +868,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"</a></li>
             </ul>    
         </div>
 
