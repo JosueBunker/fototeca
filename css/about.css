@@ -102,19 +102,24 @@
     margin-right: -10%;
     overflow-y: auto;
 }
-/*    &::-webkit-scrollbar:vertical {
-        width: 8px;
-    }*/
-
 .track_div .track-right .descrip::-webkit-scrollbar {
     width: 10px;
 }
 .track_div .track-right .descrip::-webkit-scrollbar-thumb {
-        background-color: rgba(255, 255, 255, .5);
-        border-radius: 10px;
-    
+    background-color: rgba(255, 255, 255, .5);
+    border-radius: 10px;
 }
 
+
+.conoce_div .acd-tour .tour-caption h3 {
+    font-size: 35px;
+    font-weight: bold;
+}
+.conoce_div .acd-tour .lrn-div button.btn.btn-learn {
+    font-size: 28px;
+    font-weight: bold;
+    padding: 0px;
+}
 
 
 @media(min-width: 1500px) {
@@ -214,6 +219,14 @@
     .track_div .track-right .descrip p {
         font-size: 12px;
     }
+
+
+    .conoce_div .acd-tour .tour-caption h3 {
+        font-size: 30px;
+    }
+    .conoce_div .acd-tour .lrn-div button.btn.btn-learn {
+        font-size: 20px;
+    }
 }
 
 @media(max-width: 767px) {
@@ -271,6 +284,15 @@
     .track_div .track-right .descrip p {
         font-size: 15px;
     }
+
+
+    .conoce_div .main_section .heading-icon {
+        position: relative;
+        top: 50px;
+    }
+    .conoce_div .main_section .row {
+        margin-top: 65px;
+    }
 }
 
 
@@ -282,11 +304,23 @@
 
 
     .state_div .flights h1, .state_div .flights h2 {
-        font-size: 30px !important;
+        font-size: 20px !important;
     }
 
 
     .track_div .track-right .descrip p {
         font-size: 13px;
+    }
+
+
+    .conoce_div .main_section h1.heading {
+        font-size: 30px;
+    }
+    .conoce_div .main_section .flight_span {
+        padding-left: 84px;
+    }
+    .conoce_div .main_section .heading-icon {
+        left: 10px;
+        top: 10px;
     }
 }

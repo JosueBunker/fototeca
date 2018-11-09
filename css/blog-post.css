@@ -1,0 +1,59 @@
+
+header .header_menu {
+    margin-bottom: 0px;
+}
+
+.heading_ltr {
+    margin: 0px;
+    padding: 50px 0px 20px 0px;
+}
+.heading_ltr h1.heading {
+    font-size: 70px;
+}
+
+
+.main-post .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-post .newsltr_heading span {
+    font-size: 18px;
+}
+.main-post .newsltr_heading h2 {
+    font-size: 60px;
+    font-weight: bold;
+}
+.main-post .blog_post {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 60px 3%;
+}
+.main-post .blog_post h1.heading {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    /*font-family: 'integral-cf-bold';*/
+}
+.main-post .blog_post .left_post {
+    width: 35%;
+}
+.main-post .blog_post .left_post img {
+    width: 70% !important;
+}
+.main-post section.section-div.blog_post .left_post .post-num {
+    top: -10%;
+    left: 0px;
+}
+.main-post .blog_post .right_post {
+    float: right;
+    width: 65%;
+}
+.main-post .blog_post .right_post .pblog-cont {
+    width: 100%;
+}
+@media(min-width: 1500px) {
+
+    .main-post .container, .heading_ltr .container, .header_menu .container {
+        width: 1250px;
+    }
+}
