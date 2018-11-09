@@ -64,7 +64,7 @@
     </nav>
   </header>
 
-  <div class="bottom-srh">
+<!--   <div class="bottom-srh">
     <div class="container">
       <form class="navbar-form navbar-left" action="/action_page.php">
         <div class="input-group">
@@ -77,7 +77,7 @@
         </div>
       </form>
     </div>
-  </div>
+  </div> -->
 
   <section class="section-div top_head">
     <div class="container">

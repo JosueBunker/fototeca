@@ -6,168 +6,124 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Fototeca - Curso</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
-
-
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
+  <meta name="description" content="">   
+  <title>Fototeca - Curso</title>   <!-- Favicon -->   
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   
+  <link href="" rel="stylesheet"> 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
-  <link href="css/curso.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/curso.css" rel="stylesheet">
 </head>
 
 <body class="Curso-page">
 
-<div class="curso-bg">
-  <div class="for_mobile menu">
-  <header id="header">
-    <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="escuela.html">Escuela</a></li>
-        <li><a href="eventos.html">Eventos</a></li>
-        <li><a href="es-o.html">Galeria ES-O</a></li>
-        <li><a href="lab.html">LAB de impresion</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="busca.html">Buscar</a></li>
-         <li></li>
-        </ul>
-    </div>
-  </div>
-</nav>
-</header>
-<div class="bottom-srh">
-  <div class="container">
-<form class="navbar-form navbar-left" action="/action_page.php">
-  <div class="input-group">
-     <div class="input-group-btn">
-      <button class="btn btn-default" type="submit">
-        <i class="glyphicon glyphicon-search"></i>
-      </button>
-    </div>
-    <input type="text" class="form-control" placeholder="Buscar">
-  </div>
-</form>
-</div>
-</div>
-</div>
-  <header id="header"  class="for_desctop">
-    <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html">
-      <img src="img/logo-w.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="escuela.html">Escuela</a></li>
-        <li><a href="eventos.html">Eventos</a></li>
-        <li><a href="es-o.html">Galeria ES-O</a></li>
-        <li><a href="lab.html">LAB de impresion</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="busca.html">Buscar</a></li>
-        <li></li>
-        <!--li><form class="searchbox">
-        <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
-        <input type="submit" class="searchbox-submit" value="">
-        <span class="searchbox-icon"><i class="fa fa-search"></i></span>
-        </form></li-->
+  <div class="curso-bg">
 
-      </ul>
-    </div>
-  </div>
-</nav>
-</header>
-
-
- <section class="section-div top_head for_desctop">
-   <div class="container">
-    <div class="main_section">
-        <div class="cont_section">
-          <div class="right-cont">
-            <!-- <iframe > -->
-            <img src="img/curso-vid.png">
-            <!--div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
-            </div-->
+    <header id="header">
+      <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
+        <div class="container">
+          <div class="navbar-header">
+            <div class="navbar_logo">
+              <a class="navbar-brand" href="/">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
+              </a>
+            </div>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar top-bar"></span>
+              <span class="icon-bar middle-bar"></span>
+              <span class="icon-bar bottom-bar"></span>
+            </button>
           </div>
-          <div class="left-cont">
+          
+          <div class="collapse navbar-collapse menu-list" id="myNavbar">
+            <div class="search-container">
+              <form action="/action_page.php">
+                <button type="submit"><i class="fa fa-search"></i></button>
+                <input type="text" placeholder="Buscar..." name="search">
+              </form>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/">Home</a></li>
+              <li><a href="about/">About</a></li>
+              <li><a href="escuela/">Escuela</a></li>
+              <li><a href="eventos/">Eventos</a></li>
+              <li><a href="es-o/">Galeria ES-O</a></li>
+              <li><a href="lab/">LAB de impresion</a></li>
+              <li><a href="blog/">Blog</a></li>
+              <li>
+                <form class="searchbox">
+                  <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
+                  <input type="submit" class="searchbox-submit" value="">
+                  <span class="searchbox-icon"><i class="fa fa-search"></i></span>
+                </form>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <section class="section-div top_head for_desctop">
+      <div class="container">
+        <div class="main_section">
+          <div class="cont_section">
+            <div class="right-cont">
+              <!-- <iframe > -->
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso-vid.png">
+              <!--div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+              </div-->
+            </div>
+            <div class="left-cont">
+              <p>DIPLOMADO EN</p>
+              <h1>Fotografía</h1>
+              <a href="#formulario">
+                <button type="btn" class="btn btn-learn ">Solicita info aqui 
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
+                </button>
+              </a>
+            </div>  
+          </div>
+        </div>
+      </div>
+    </section> 
+
+<!-- </div> -->
+
+    <section class="section-div  slider-sec eso-slider  for_mobile">
+      <div claar header_menu" id="header_menu"">
+            <div class="container">
+              
+              <div class="navbar-header">
+                <div class="navbar_logo">
+                  <a class="navbar-brand" href="/">ss="container">
+        <div class="mobile_slider">
+          <div class="fleft">
             <p>DIPLOMADO EN</p>
             <h1>Fotografía</h1>
-            <a href="#formulario">
-              <button type="btn" class="btn btn-learn ">Solicita info aqui 
-                <img src="img/right-arrow2.png" class="right_angel_ar">
-              </button>
-            </a>
-          </div>  
-          
-        </div>
-
-      </div>
-    </div>
-   </div>
- </section> 
-
-</div>
-
-<section class="section-div  slider-sec eso-slider  for_mobile">
-  <div class="container">
-    <div class="mobile_slider">
-       <div class="fleft">
-           <p>DIPLOMADO EN</p>
-            <h1>Fotografía</h1>
           </div>
-        <img src="img/curso-bg.jpg">
-        <div class="carousel-caption slider-caption">
-          <div class="fright">
-           <button type="btn" class="btn btn-learn ">Solicita info aqui 
-            <img src="img/right-arrow2.png" class="right_angel_ar">
-          </button>    
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso-bg.jpg">
+          <div class="carousel-caption slider-caption">
+            <div class="fright">
+              <a href="#formulario">
+                <button type="btn" class="btn btn-learn ">Solicita info aqui 
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
+                </button> 
+              </a>   
+            </div>
           </div>
         </div>
       </div>
-</div>
-</section>
+    </section>
+
+  </div>
 
 
 <section class="diploma_div">
@@ -177,10 +133,10 @@ href="" rel="stylesheet">
       <div class="col-sm-6">
         <div class="dipl-photo">
           <div class="dip-img1">
-            <img src="img/curso3.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso3.jpg">
           </div> 
            <div class="dip-img2">
-            <img src="img/curso2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso2.jpg">
            </div> 
         </div>
       </div>
@@ -260,7 +216,7 @@ href="" rel="stylesheet">
             influir en nuestra sociedad.
           </p>
            <button type="btn" class="btn btn-learn ">Descargar Pensum 
-            <img src="img/right-arrow2.png" class="right_angel_ar">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
           </button>
         </div>
     
@@ -269,10 +225,10 @@ href="" rel="stylesheet">
       <div class="col-sm-6">
         <div class="dipl-photor">
          <div class="dip-img1">
-            <img src="img/curso5.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso5.jpg">
          </div> 
          <div class="dip-img2">
-            <img src="img/curso6.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso6.jpg">
          </div> 
         </div>
       </div>
@@ -287,10 +243,10 @@ href="" rel="stylesheet">
        <div class="col-sm-6">
         <div class="dipl-photor">
          <div class="dip-img1">
-            <img src="img/curso5.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso5.jpg">
          </div> 
          <div class="dip-img2">
-            <img src="img/curso6.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/curso6.jpg">
          </div> 
         </div>
       </div>
@@ -329,7 +285,7 @@ href="" rel="stylesheet">
             influir en nuestra sociedad.
           </p>
            <button type="btn" class="btn btn-learn ">Descargar Pensum 
-            <img src="img/right-arrow2.png" class="right_angel_ar">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
           </button>
         </div>
       </div>
@@ -350,65 +306,65 @@ href="" rel="stylesheet">
         <div class="decent-main">
           <ul class="teen-list">
             <li class="teen-data">
-                <img src="img/b1.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
                 <h4>Jane Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
                </li>
             <li class="teen-data">
-                <img src="img/blog1.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog1.jpg">
                 <h4>John Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
              </li>
             <li class="teen-data">
-                <img src="img/b1.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
                 <h4>Jane Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
              </li>
             <li class="teen-data">
-                <img src="img/b3.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
                 <h4>John Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
              </li>
             <li class="teen-data">
-                <img src="img/b2.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
                 <h4>Jane Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
             </li>
             <li class="teen-data">
-                <img src="img/b3.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
                 <h4>John Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
             </li>
             <li class="teen-data">
-                <img src="img/b1.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
                 <h4>Jane Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
               </li>
             <li class="teen-data">
-                <img src="img/blog1.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog1.jpg">
                 <h4>John Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
             </li>
             <li class="teen-data">
-                <img src="img/b1.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
                 <h4>Jane Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
             </li>
             <li class="teen-data">
               <div class="teen-data">
-                <img src="img/b3.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
                 <h4>John Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
              </li>
             <li class="teen-data">
               <div class="teen-data">
-                <img src="img/b2.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
                 <h4>Jane Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
             </li>
             <li class="teen-data">
               <div class="teen-data">
-                <img src="img/b3.jpg">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
                 <h4>John Doe</h4>
                 <span><a href="#">Insta:@janedoe</a></span>
             </li>
@@ -468,16 +424,16 @@ href="" rel="stylesheet">
           </div>
           <div class="gen-img">
             <ul>
-                <li><img src="img/res1.png"></li>
-                <li><img src="img/res2.png"></li>
-                <li><img src="img/res3.png"></li>
-                <li><img src="img/res4.png"></li>
-                <li><img src="img/res5.png"></li>
-                <li><img src="img/res6.png"></li>
+                <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/res1.png"></li>
+                <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/res2.png"></li>
+                <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/res3.png"></li>
+                <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/res4.png"></li>
+                <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/res5.png"></li>
+                <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/res6.png"></li>
             </ul>
           </div>
            <button type="btn" class="btn btn-learn">Ver más 
-              <img src="img/right-arrow2.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
             </button>
         </div>
       </div>
@@ -500,7 +456,7 @@ href="" rel="stylesheet">
               hubiera imaginado.’ 
             </p>
            <button type="btn" class="btn btn-learn">Andrea Marin
-              <img src="img/right-arrow2.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
            </button>
       </div>
 
@@ -516,7 +472,7 @@ href="" rel="stylesheet">
               hubiera imaginado.’ 
             </p>
            <button type="btn" class="btn btn-learn">Andrea Marin
-              <img src="img/right-arrow2.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
             </button>
       </div>
     
@@ -532,7 +488,7 @@ href="" rel="stylesheet">
               hubiera imaginado.’ 
             </p>
            <button type="btn" class="btn btn-learn">Andrea Marin 
-              <img src="img/right-arrow2.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
             </button>
       </div>
     </div>
@@ -563,7 +519,7 @@ href="" rel="stylesheet">
 <section class="section-div info-div">
    <div class="container">
       <h1 class="heading"><span class="line-border"></span> Información General
-       <img class="book bell" src="img/bell.png"></h1>
+       <img class="book bell" src="http://68.183.113.49/wp-content/themes/fototeca/img/bell.png"></h1>
 
        <div class="row">
         <div class="col-sm-6">
@@ -665,7 +621,7 @@ href="" rel="stylesheet">
         <div class="form-group">        
           <div class="col-sm-offset-3 col-sm-6">
             <button class="btn follow">ENVIAR
-             <img src="img/right-arrow2.png" class="right_angel_ar">
+             <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
            </button>
           </div>
         </div>
@@ -683,7 +639,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -780,10 +736,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"</a></li>
             </ul>    
         </div>
 
@@ -795,9 +751,9 @@ href="" rel="stylesheet">
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){

@@ -6,116 +6,66 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Footeca</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
-
-
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
+  <meta name="description" content="">  
+  <title>Fototeca - Lab</title>  
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
 </head>
 
 <body>
 
 <div class="lab-top">
-  <div class="for_mobile menu">
   <header id="header">
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="#">Escula</a></li>
-        <li><a href="#">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Buscar</a></li>
-         <li></li>
-        </ul>
-    </div>
-  </div>
-</nav>
-</header>
-<div class="bottom-srh">
-  <div class="container">
-<form class="navbar-form navbar-left" action="/action_page.php">
-  <div class="input-group">
-     <div class="input-group-btn">
-      <button class="btn btn-default" type="submit">
-        <i class="glyphicon glyphicon-search"></i>
-      </button>
-    </div>
-    <input type="text" class="form-control" placeholder="Buscar">
-  </div>
-</form>
-</div>
-</div>
-</div>
-  <header id="header"  class="for_desctop">
-    <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html">
-      <img src="img/logo-w.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="Escuela.html">Escula</a></li>
-        <li><a href="Eventos.html">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="blog.html">Buscar</a></li>
-        <li></li>
-        <!--li><form class="searchbox">
-        <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
-        <input type="submit" class="searchbox-submit" value="">
-        <span class="searchbox-icon"><i class="fa fa-search"></i></span>
-        </form></li-->
-
-      </ul>
-    </div>
-  </div>
-</nav>
-</header>
-
+      <div class="container">
+        <div class="navbar-header">
+          <div class="navbar_logo">
+            <a class="navbar-brand" href="/">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
+            </a>
+          </div>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+        </div>
+        
+        <div class="collapse navbar-collapse menu-list" id="myNavbar">
+          <div class="search-container">
+            <form action="/action_page.php">
+              <button type="submit"><i class="fa fa-search"></i></button>
+              <input type="text" placeholder="Buscar..." name="search">
+            </form>
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li><a href="about/">About</a></li>
+            <li><a href="escuela/">Escuela</a></li>
+            <li><a href="eventos/">Eventos</a></li>
+            <li><a href="es-o/">Galeria ES-O</a></li>
+            <li><a href="lab/">LAB de impresion</a></li>
+            <li><a href="blog/">Blog</a></li>
+            <li>
+              <form class="searchbox">
+                <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
+                <input type="submit" class="searchbox-submit" value="">
+                <span class="searchbox-icon"><i class="fa fa-search"></i></span>
+              </form>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  
  <section class="section-div top_head lab-head for_desctop">
    <div class="container">
       <div class="left-cont">
@@ -125,7 +75,7 @@ href="" rel="stylesheet">
     <div class="sub_sec">
       <div class="row">
         <div class="left-prom col-sm-6">
-            <img src="img/lab.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab.png">
           </div>  
           <div class="right-prom col-sm-6">
             <p>Somos un proyecto dedicado a elevar la calidad en  <br/>
@@ -137,7 +87,7 @@ href="" rel="stylesheet">
             <p>Cotiza, imprime o reserva un estudio.
             </p>
           <button type="btn" class="btn btn-learn ">COMIENZA 
-            <img src="img/right-arrow.png" class="right_angel_ar">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
           </button>
            <button type="btn" class="btn btn-learn see ">VER MÁS +
           </button>
@@ -156,7 +106,7 @@ href="" rel="stylesheet">
         <h1 class="heading"><span class="line-border"></span> Laboratorio de <br/>
         <span class="flight_span">impresion fina</span><br/>
         </h1>
-        <img class="print-icon" src="img/print.png">
+        <img class="print-icon" src="http://68.183.113.49/wp-content/themes/fototeca/img/print.png">
       </div>  
       <div class="right-prom col-sm-6">
         <p><b>Papel fino para trabajo fino</b></p>
@@ -170,7 +120,7 @@ href="" rel="stylesheet">
           proyecto universitario con bajo presupuesto?
         </p>
         <button type="btn" class="btn btn-learn">COMIENZA 
-         <img src="img/right-arrow.png" class="right_angel_ar">
+         <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
         </button>
       </div>
     </div> 
@@ -179,7 +129,7 @@ href="" rel="stylesheet">
 
 <section class="section-div diff_imgs for_desctop">
    <div class="container">
-    <img src="img/lab2.png">
+    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab2.png">
    </div>
 </section>
 
@@ -189,7 +139,7 @@ href="" rel="stylesheet">
      <div class="sub_sec">
       <div class="row">
         <div class="left-prom col-sm-6">
-            <img src="img/lab.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab.png">
           </div>  
           <div class="right-prom col-sm-6">
             <p>Somos un proyecto dedicado a elevar la calidad en  <br/>
@@ -201,7 +151,7 @@ href="" rel="stylesheet">
             <p>Cotiza, imprime o reserva un estudio.
             </p>
           <button type="btn" class="btn btn-learn ">COMIENZA 
-            <img src="img/right-arrow.png" class="right_angel_ar">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
           </button>
            <button type="btn" class="btn btn-learn see ">VER MÁS +
           </button>
@@ -217,12 +167,12 @@ href="" rel="stylesheet">
     <div class="sub_sec">
       <div class="left-prom col-sm-6">
         <h1 class="heading"><span class="line-border"></span>Laboratorio de impresion
-         <img class="book" src="img/print.png"></h1> 
+         <img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/print.png"></h1> 
       </div> 
 
       <section class="section-div diff_imgs for_mobile">
          <div class="container">
-          <img src="img/lab2.png">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab2.png">
          </div>
       </section>
       <div class="right-prom col-sm-6">
@@ -237,7 +187,7 @@ href="" rel="stylesheet">
           proyecto universitario con bajo presupuesto?
         </p>
         <button type="btn" class="btn btn-learn">COMIENZA 
-         <img src="img/right-arrow.png" class="right_angel_ar">
+         <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
         </button>
       </div>
     </div> 
@@ -262,30 +212,30 @@ href="" rel="stylesheet">
     </div>
 
     <div class="talent-img timg1">
-      <img src="img/lab1.png">
+      <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab1.png">
       <div class="talent-caption">
         <div class="text">
-        <img src="img/spec.png">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/spec.png">
          <button type="btn" class="btn btn-learn">CLICK AQUI
          </button>
         </div>
       </div>
     </div>
     <div class="talent-img timg2">
-      <img src="img/lab3.png">
+      <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab3.png">
       <div class="talent-caption">
         <div class="text">
-        <img src="img/spec.png">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/spec.png">
          <button type="btn" class="btn btn-learn">CLICK AQUI
          </button>
         </div>
       </div>
     </div>
     <div class="talent-img timg3">
-      <img src="img/lab4.png">
+      <img src="http://68.183.113.49/wp-content/themes/fototeca/img/lab4.png">
       <div class="talent-caption">
         <div class="text">
-        <img src="img/spec.png">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/spec.png">
          <button type="btn" class="btn btn-learn">CLICK AQUI
          </button>
         </div>
@@ -319,7 +269,7 @@ href="" rel="stylesheet">
               comenzar diciéndonos qué necesitas
             </p>
             <button type="btn" class="btn btn-learn">COMIENZA 
-             <img src="img/right-arrow.png" class="right_angel_ar">
+             <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
 
           </div>
@@ -365,7 +315,7 @@ href="" rel="stylesheet">
         <div class="col-sm-6">
           <div class="prof-right">
              <div class="prof_imgs">
-              <img src="img/square.png">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/square.png">
             </div>
           </div>
         </div>
@@ -427,7 +377,7 @@ href="" rel="stylesheet">
     <div class="quote_bottom">
       <h2>Imprime, cotiza o reserva un estudio.</h2>
       <button type="btn" class="btn btn-learn">COTIZA AQUÍ
-        <img src="img/right-arrow.png" class="right_angel_ar">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
       </button>
     </div>
   </div>
@@ -535,10 +485,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"</a></li>
             </ul>    
         </div>
 
@@ -550,9 +500,9 @@ href="" rel="stylesheet">
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){

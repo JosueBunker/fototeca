@@ -557,9 +557,9 @@
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){

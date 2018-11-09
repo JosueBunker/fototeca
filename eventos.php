@@ -6,20 +6,22 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Footeca</title>   <!-- Favicon -->   <link
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
+  <meta name="description" content="">   
+  <title>Fototeca - Eventos</title>   <!-- Favicon -->   <link
 href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
 href="" rel="stylesheet"> 
 
 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
-  <link href="css/calender.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/calender.css" rel="stylesheet">
 
 </head>
 
@@ -27,44 +29,47 @@ href="" rel="stylesheet">
 
   <header id="header">
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="#">Escula</a></li>
-        <li><a href="#">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Buscar</a></li>
-         <li></li>
-        <!--li><form class="searchbox">
-        <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
-        <input type="submit" class="searchbox-submit" value="">
-        <span class="searchbox-icon"><i class="fa fa-search"></i></span>
-        </form></li-->
-
-      </ul>
-    </div>
-  </div>
-</nav>
-</header>
+      <div class="container">
+        <div class="navbar-header">
+          <div class="navbar_logo">
+            <a class="navbar-brand" href="/">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
+            </a>
+          </div>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+        </div>
+        
+        <div class="collapse navbar-collapse menu-list" id="myNavbar">
+          <div class="search-container">
+            <form action="/action_page.php">
+              <button type="submit"><i class="fa fa-search"></i></button>
+              <input type="text" placeholder="Buscar..." name="search">
+            </form>
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li><a href="about/">About</a></li>
+            <li><a href="escuela/">Escuela</a></li>
+            <li><a href="eventos/">Eventos</a></li>
+            <li><a href="es-o/">Galeria ES-O</a></li>
+            <li><a href="lab/">LAB de impresion</a></li>
+            <li><a href="blog/">Blog</a></li>
+            <li>
+              <form class="searchbox">
+                <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
+                <input type="submit" class="searchbox-submit" value="">
+                <span class="searchbox-icon"><i class="fa fa-search"></i></span>
+              </form>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
 
 <div class="bottom-srh">
   <div class="container">
@@ -257,7 +262,7 @@ href="" rel="stylesheet">
           <div class="row">
             <div class="col-sm-4">
             <div class="acd-tour top_div">
-              <div class="tour-img" style="background:url(./img/a1.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
@@ -287,7 +292,7 @@ href="" rel="stylesheet">
 
             <div class="col-sm-3">
             <div class="acd-tour middle_div">
-              <div class="tour-img" style="background:url(./img/a2.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
@@ -312,7 +317,7 @@ href="" rel="stylesheet">
 
        <div class="col-sm-5">
           <div class="acd-tour bottom_div">
-            <div class="tour-img" style="background:url(./img/a3.png);">
+            <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
               <!-- <img src="img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
@@ -344,7 +349,7 @@ href="" rel="stylesheet">
           <div class="row">
             <div class="col-sm-4">
             <div class="acd-tour top_div">
-              <div class="tour-img" style="background:url(./img/a1.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
@@ -374,7 +379,7 @@ href="" rel="stylesheet">
 
             <div class="col-sm-3">
             <div class="acd-tour middle_div">
-              <div class="tour-img" style="background:url(./img/a2.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
@@ -399,7 +404,7 @@ href="" rel="stylesheet">
 
        <div class="col-sm-5">
           <div class="acd-tour bottom_div">
-            <div class="tour-img" style="background:url(./img/a3.png);">
+            <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
               <!-- <img src="img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
@@ -432,7 +437,7 @@ href="" rel="stylesheet">
           <div class="row">
             <div class="col-sm-4">
             <div class="acd-tour top_div">
-              <div class="tour-img" style="background:url(./img/a1.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
@@ -462,7 +467,7 @@ href="" rel="stylesheet">
 
             <div class="col-sm-3">
             <div class="acd-tour middle_div">
-              <div class="tour-img" style="background:url(./img/a2.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
               <div class="tour-caption">
@@ -487,7 +492,7 @@ href="" rel="stylesheet">
 
        <div class="col-sm-5">
           <div class="acd-tour bottom_div">
-            <div class="tour-img" style="background:url(./img/a3.png);">
+            <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
               <!-- <img src="img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
@@ -543,7 +548,7 @@ href="" rel="stylesheet">
                 <h2>Introducción a <br>la Fotografía</h2>
               </div>
            </h2>
-              <div class="tour-img" style="background:url(./img/a1.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a1.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
              <h2 class="web-heading">  
@@ -581,7 +586,7 @@ href="" rel="stylesheet">
                  <h2>Ficción o  <br> Realidad</h2>
                </div>
            </h2>
-              <div class="tour-img" style="background:url(./img/a2.png);">
+              <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a2.png);">
                 <!-- <img src="img/s2.jpg"> -->
                </div>
              <h2 class="web-heading">  
@@ -615,7 +620,7 @@ href="" rel="stylesheet">
                 <h2>Diplomado en <br>Fotografía y gestión de <span>productos fotograficos</span></h2>
               </div>
             </h2>
-            <div class="tour-img" style="background:url(./img/a3.png);">
+            <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//a3.png);">
               <!-- <img src="img/s2.jpg"> -->
              </div>
             <h2 class="web-heading">  
@@ -698,7 +703,7 @@ href="" rel="stylesheet">
   <div class="row">
         <div class="col-sm-4 blog">
           <h2 class="mobile-heading">Foto del día</h2>
-          <div class="blog-img" style="background:url(./img/b1.jpg);">
+          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//b1.jpg);">
             <h2 class="web-heding">Foto del día</h2>
           </div>
           <div class="img-content">
@@ -712,7 +717,7 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4 blog">
           <h2 class="mobile-heading">Recomenda-cion</h2>
-          <div class="blog-img" style="background:url(./img/b2.jpg);">
+          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//b2.jpg);">
             <h2 class="web-heding">Recomenda-cion</h2>
           </div>
           <div class="img-content">
@@ -726,7 +731,7 @@ href="" rel="stylesheet">
 
         <div class="col-sm-4 blog">
           <h2 class="mobile-heading">Fotógrafo recomendado</h2>
-          <div class="blog-img"  style="background:url(./img/b3.jpg);">
+          <div class="blog-img"  style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img//b3.jpg);">
             <h2 class="web-heding">Fotografo recomendado</h2>
           </div>
           <div class="img-content">
@@ -878,10 +883,10 @@ href="" rel="stylesheet">
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/calender.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/calender.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){

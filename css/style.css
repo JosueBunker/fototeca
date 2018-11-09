@@ -197,6 +197,7 @@ header#header .navbar-inverse .menu-list .navbar-nav>li { padding: 0 5px;}
     font-size: 20px;
     color: #494949;
     font-size: 14px;
+    background: transparent;
 }
 .searchbox-icon, .searchbox-submit {
     width: 40px;

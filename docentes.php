@@ -6,109 +6,66 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Footeca</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">   
+  <title>Fototeca - Docentes</title>   
 
 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
 </head>
 
 <body class="docentes-page">
-  <div class="for_mobile menu">
+  
   <header id="header">
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="#">Escula</a></li>
-        <li><a href="#">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Buscar</a></li>
-         <li></li>
-        </ul>
-    </div>
-  </div>
-</nav>
-</header>
-<div class="bottom-srh">
-  <div class="container">
-<form class="navbar-form navbar-left" action="/action_page.php">
-  <div class="input-group">
-     <div class="input-group-btn">
-      <button class="btn btn-default" type="submit">
-        <i class="glyphicon glyphicon-search"></i>
-      </button>
-    </div>
-    <input type="text" class="form-control" placeholder="Buscar">
-  </div>
-</form>
-</div>
-</div>
-</div>
-
- <header id="header" class="for_desctop">
-    <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html">
-     	<img src="img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="#">Escula</a></li>
-        <li><a href="Eventos.html">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="#">Buscar</a></li>
-        <li></li>
-
-       </ul>
-    </div>
-  </div>
-</nav>
-</header>
+      <div class="container">
+        <div class="navbar-header">
+          <div class="navbar_logo">
+            <a class="navbar-brand" href="/">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
+            </a>
+          </div>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+        </div>
+        
+        <div class="collapse navbar-collapse menu-list" id="myNavbar">
+          <div class="search-container">
+            <form action="/action_page.php">
+              <button type="submit"><i class="fa fa-search"></i></button>
+              <input type="text" placeholder="Buscar..." name="search">
+            </form>
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li><a href="about/">About</a></li>
+            <li><a href="escuela/">Escuela</a></li>
+            <li><a href="eventos/">Eventos</a></li>
+            <li><a href="es-o/">Galeria ES-O</a></li>
+            <li><a href="lab/">LAB de impresion</a></li>
+            <li><a href="blog/">Blog</a></li>
+            <li>
+              <form class="searchbox">
+                <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
+                <input type="submit" class="searchbox-submit" value="">
+                <span class="searchbox-icon"><i class="fa fa-search"></i></span>
+              </form>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
 
 <section class="section-div decent">
   <div class="container">
@@ -123,105 +80,105 @@ href="" rel="stylesheet">
 <div class="decent-main">
   <ul class="teen-list">
     <li class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
        </li>
     <li class="teen-data">
-        <img src="img/blog1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog1.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
      </li>
     <li class="teen-data">
-        <img src="img/b3.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
      </li>
     <li class="teen-data">
-        <img src="img/b2.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
      </li>
     <li class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
-        <img src="img/blog1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog1.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
       </li>
     <li class="teen-data">
-        <img src="img/b3.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
-        <img src="img/b2.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
       <div class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
      </li>
     <li class="teen-data">
       <div class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
       <div class="teen-data">
-        <img src="img/blog1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog1.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
-        <img src="img/b3.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
    </li>
     <li class="teen-data">
-        <img src="img/b2.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
     </li>
     <li class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
      </li>
     <li class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
       </li>
     <li class="teen-data">
-        <img src="img/blog1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog1.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
      </li>
     <li class="teen-data">
-        <img src="img/b3.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
       </li>
     <li class="teen-data">
-        <img src="img/b2.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
         <h3>Jane Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
       </li>
     <li class="teen-data">
-        <img src="img/b1.jpg">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
         <h3>John Doe</h3>
         <span><a href="#">Insta:@janedoe</a></span>
       </li>
@@ -237,7 +194,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -334,10 +291,10 @@ href="" rel="stylesheet">
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"></a></li>
-               <li><a href="#"><img src="img/youtube.png"></a></li>
-               <li><a href="#"><img src="img/instagram.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
             </ul>    
         </div>
 
@@ -349,9 +306,9 @@ href="" rel="stylesheet">
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){

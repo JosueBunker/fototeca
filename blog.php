@@ -14,16 +14,16 @@
   <title>Fototeca - Blog</title>   
   
   <!-- Favicon -->   
-  <link href="http://68.183.113.49/wp-content/themes/temp/img/favicon.png" rel="icon" type="image/png">   
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/img/favicon.png" rel="icon" type="image/png">   
   <!-- Fonts -->   
   <link href="" rel="stylesheet"> 
   <!-- Icons -->  
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/bootstrap.min.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/style.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/responsive.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/blog.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/blog.css" rel="stylesheet">
 </head>
 
 <body class="blog-page">
@@ -35,7 +35,7 @@
           <div class="navbar-header">
             <div class="navbar_logo">
               <a class="navbar-brand" href="index.html">
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
               </a>
             </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -88,7 +88,7 @@
         <div class="navbar-header">
           <div class="navbar_logo">
             <a class="navbar-brand" href="index.html">
-              <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
             </a>
           </div>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -136,7 +136,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner slider_sec">
           <div class="item active">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Los Angeles">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png" alt="Los Angeles">
             <div class="carousel-caption">
               <h4>POSPRODUCCIÓN</h4>
               <div class="inner-caption">
@@ -146,14 +146,14 @@
               </div>
               <a href="blog-post/">
                 <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                 </button>
               </a>
             </div>
           </div>
 
           <div class="item">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Chicago">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png" alt="Chicago">
             <div class="carousel-caption">
               <h4>POSPRODUCCIÓN</h4>
               <div class="inner-caption">
@@ -163,14 +163,14 @@
               </div>
               <a href="blog-post/">
                 <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                 </button>
               </a>
             </div>
           </div>
 
           <div class="item">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="New york">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png" alt="New york">
             <div class="carousel-caption">
               <h4>POSPRODUCCIÓN</h4>
               <div class="inner-caption">
@@ -181,7 +181,7 @@
               </div>
               <a href="blog-post/">
                 <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                  <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                 </button>
               </a>
             </div>
@@ -221,10 +221,10 @@
             </h1>
             <p>16 de junio / Por: Jane Doe</p>
           </div>
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png">
           <a href="blog-post/">
             <button type="btn" class="btn btn-learn">CONOCE MÁS 
-              <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
           </a>
         </div>
@@ -244,7 +244,7 @@
               <p><A href="#">ALUMNO DESTACADO</a></p>
               <div class="inner-blog">
                 <h1>Juan Pablo </br>Ochoa</h1>
-                <img class="like-img" src="http://68.183.113.49/wp-content/themes/temp/img/like.png">
+                <img class="like-img" src="http://68.183.113.49/wp-content/themes/fototeca/img/like.png">
              </div>
               <p>Objectively re-engineer virtual outsourcing whereas 
               cross-media applications. Interactively reconceptualize 
@@ -253,7 +253,7 @@
               principle-centered process improvements. 
             </p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
           </div>  
@@ -263,40 +263,40 @@
 <div class="blog-card">
   <div class="row">
         <div class="col-sm-4 blog">
-          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/b1.jpg);">
+          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg);">
             <h2>Foto del día</h2>
           </div>
           <div class="img-content">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
 
         <div class="col-sm-4 blog">
-          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/temp/img/b2.jpg);">
+          <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg);">
             <h2>Recomenda-cion</h2>
           </div>
           <div class="img-content">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
 
         <div class="col-sm-4 blog">
-          <div class="blog-img"  style="background:url(http://68.183.113.49/wp-content/themes/temp/img/b3.jpg);">
+          <div class="blog-img"  style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg);">
             <h2>Fotografo recomendado</h2>
           </div>
           <div class="img-content">
             <p>Objectively re-engineer virtual outsourcing 
             whereas cross-media applications. </p>
              <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                  </button>
           </div>
         </div> 
@@ -313,7 +313,7 @@
     <div class="row">
       <div class="col-sm-8">
         <div class="emp-left">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/com.png">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/com.png">
       </div>
     </div>
     <div class="col-sm-4">
@@ -326,7 +326,7 @@
               principle-centered process improvements. 
             </p>
             <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
           </div>
         </div>
@@ -335,38 +335,38 @@
 <div class="emp-nx">
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp1.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/emp1.png">
             <h3>Compellingly synthesize holistic methods</h3>
             <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
            
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp2.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/emp2.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp3.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/emp3.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
@@ -385,9 +385,9 @@
       <div class="blg-nx">
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/b3.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/fototeca/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -399,9 +399,9 @@
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/fototeca/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -413,9 +413,9 @@
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/b2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/fototeca/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -427,9 +427,9 @@
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/b3.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/fototeca/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -441,9 +441,9 @@
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/fototeca/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -455,9 +455,9 @@
 
         <div class="col-sm-4">
           <div class="blg-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/b2.jpg">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg">
             <div class="name-blog">
-              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/temp/img/turn-right.png">
+              <img  class="turn-rt" src="http://68.183.113.49/wp-content/themes/fototeca/img/turn-right.png">
               <span>Jane Doe </br>Asistente</span>
             </div>
             <div class="icon-blog">
@@ -476,7 +476,7 @@
   <section class="section-div newsletter">
     <div class="container">
       <div class="newsletter-div">
-        <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.jpg"></h1>
+        <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
         <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.<br/>
           Noticias, tips, eventos, talleres y más.
         </p>
@@ -575,10 +575,10 @@
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
-              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"</a></li>
-               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"</a></li>
-               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"</a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"</a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"</a></li>
             </ul>    
         </div>
 
@@ -590,9 +590,9 @@
   </footer>
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){
