@@ -47,12 +47,12 @@
           </div>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/">Home</a></li>
-            <li><a href="about/">About</a></li>
-            <li><a href="escuela/">Escuela</a></li>
-            <li><a href="eventos/">Eventos</a></li>
-            <li><a href="es-o/">Galeria ES-O</a></li>
-            <li><a href="lab/">LAB de impresion</a></li>
-            <li><a href="blog/">Blog</a></li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/escuela/">Escuela</a></li>
+            <li><a href="/eventos/">Eventos</a></li>
+            <li><a href="/es-o/">Galeria ES-O</a></li>
+            <li><a href="/lab/">LAB de impresion</a></li>
+            <li><a href="/blog/">Blog</a></li>
             <li>
               <form class="searchbox">
                 <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
@@ -65,7 +65,7 @@
       </div>
     </nav>
   </header>
-  
+
  <section class="section-div top_head lab-head for_desctop">
    <div class="container">
       <div class="left-cont">
