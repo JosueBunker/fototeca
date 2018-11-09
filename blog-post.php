@@ -25,93 +25,49 @@
 
 <body class="newsletter-page">
 
-  <div class="for_mobile menu">
-    <header id="header">
-      <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-      <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="#">Escuela</a></li>
-        <li><a href="#">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Buscar</a></li>
-         <li></li>
-        </ul>
-    </div>
-  </div>
-</nav>
-</header>
-<div class="bottom-srh">
-  <div class="container">
-<form class="navbar-form navbar-left" action="/action_page.php">
-  <div class="input-group">
-     <div class="input-group-btn">
-      <button class="btn btn-default" type="submit">
-        <i class="glyphicon glyphicon-search"></i>
-      </button>
-    </div>
-    <input type="text" class="form-control" placeholder="Buscar">
-  </div>
-</form>
-</div>
-</div>
-</div>
-
- <header id="header" class="for_desctop">
+  <header id="header">
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
-  <div class="container">
-    <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html">
-      <img src="http://68.183.113.49/wp-content/themes/temp/img/logo.png">
-     </a></div>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-       <span class="icon-bar top-bar"></span>
-        <span class="icon-bar middle-bar"></span>
-        <span class="icon-bar bottom-bar"></span>
-      </button>
-      
-    </div>
-    <div class="collapse navbar-collapse menu-list" id="myNavbar">
-       <div class="search-container">
-    <form action="/action_page.php">
-      <button type="submit"><i class="fa fa-search"></i></button>
-      <input type="text" placeholder="Buscar..." name="search">
-    </form>
-  </div>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">About</a></li>
-         <li><a href="#">Escuela</a></li>
-        <li><a href="Eventos.html">Eventos</a></li>
-        <li><a href="#">Galeria ES-O</a></li>
-        <li><a href="#">LAB de impresion</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li><a href="#">Buscar</a></li>
-        <li></li>
-
-       </ul>
-    </div>
-  </div>
-</nav>
-</header>
+      <div class="container">
+        <div class="navbar-header">
+          <div class="navbar_logo">
+            <a class="navbar-brand" href="/">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
+            </a>
+          </div>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+        </div>
+        
+        <div class="collapse navbar-collapse menu-list" id="myNavbar">
+          <div class="search-container">
+            <form action="/action_page.php">
+              <button type="submit"><i class="fa fa-search"></i></button>
+              <input type="text" placeholder="Buscar..." name="search">
+            </form>
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li><a href="about/">About</a></li>
+            <li><a href="escuela/">Escuela</a></li>
+            <li><a href="eventos/">Eventos</a></li>
+            <li><a href="es-o/">Galeria ES-O</a></li>
+            <li><a href="lab/">LAB de impresion</a></li>
+            <li><a href="blog/">Blog</a></li>
+            <li>
+              <form class="searchbox">
+                <input type="search" name="search" class="searchbox-input" onkeyup="buttonUp();" required>
+                <input type="submit" class="searchbox-submit" value="">
+                <span class="searchbox-icon"><i class="fa fa-search"></i></span>
+              </form>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
 
 <div class="heading_ltr">
   <div class="container">
