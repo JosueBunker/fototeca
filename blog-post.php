@@ -11,16 +11,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
   <meta name="description" content="">   
   <title>Fototeca - Blog</title>   
-  <!-- Favicon -->   
-  <link href="img/favicon.png" rel="icon" type="image/png">   
-  <!-- Fonts -->   
-  <link href="" rel="stylesheet"> 
+
   <!-- Icons -->  
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/font-awesome.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="http://68.183.113.49/wp-content/themes/temp/css/bootstrap.min.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/style.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/temp/css/responsive.css" rel="stylesheet">
+   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
 </head>
 
 <body class="newsletter-page">
@@ -92,15 +89,15 @@
 
     <div class="carousel-inner">
       <div class="item active">
-        <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png" alt="Los Angeles">
       </div>
 
       <div class="item">
-        <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="Chicago">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png" alt="Chicago">
       </div>
     
       <div class="item">
-        <img src="http://68.183.113.49/wp-content/themes/temp/img/blog-slider.png" alt="New york">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/blog-slider.png" alt="New york">
       </div>
     </div>
 
@@ -171,10 +168,10 @@
     </div>
     <div class="social-icon">
       <ul>
-        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
-        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"></a></li>
-        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"></a></li>
-        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
+        <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
       </ul> 
     </div>
   </div>
@@ -185,7 +182,7 @@
     <h1 class="heading">TOP RATED blog posts over here!</h1>
       <div class="post_list">
         <div class="left_post">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
           <div class="post-num">
            <h2> 1</h2>
            </div>
@@ -200,7 +197,7 @@
 
       <div class="post_list">
         <div class="left_post">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
           <div class="post-num">
            <h2>2</h2>
            </div>
@@ -215,7 +212,7 @@
 
       <div class="post_list">
         <div class="left_post">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
           <div class="post-num">
            <h2>3</h2>
            </div>
@@ -230,7 +227,7 @@
 
       <div class="post_list">
         <div class="left_post">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
           <div class="post-num">
            <h2>4</h2>
            </div>
@@ -245,7 +242,7 @@
 
       <div class="post_list">
         <div class="left_post">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
           <div class="post-num">
            <h2>5</h2>
            </div>
@@ -262,7 +259,7 @@
   <div class="col-sm-3">
     <div class="post_list">
         <div class="left_post">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/b1.jpg">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg">
           <div class="post-num">
            <h2> 1</h2>
            </div>
@@ -286,7 +283,7 @@
   <div class="container">
     <h1 class="heading">illo inventore veritatis et quasi architecto beatae</h1>
       <div class="blog-video">
-        <img src="http://68.183.113.49/wp-content/themes/temp/img/architec.png">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/architec.png">
       </div>
   </div>
 </section>
@@ -294,7 +291,7 @@
 <section class="section-div newsletter nl-div">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.png"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.png"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -312,11 +309,11 @@
 <section class="section-div empower-div">
    <div class="container">
      <h1 class="heading"><span class="line-border"></span>
-         Te puede interesar<img class="book" src="http://68.183.113.49/wp-content/themes/temp/img/spec-b.png"></h1>
+         Te puede interesar<img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/spec-b.png"></h1>
     <div class="row">
       <div class="col-sm-8">
         <div class="emp-left">
-          <img src="http://68.183.113.49/wp-content/themes/temp/img/com.png">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/com.png">
       </div>
     </div>
     <div class="col-sm-4">
@@ -329,7 +326,7 @@
               principle-centered process improvements. 
             </p>
             <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
           </div>
         </div>
@@ -338,38 +335,38 @@
 <div class="emp-nx">
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp1.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/emp1.png">
             <h3>Compellingly synthesize holistic methods</h3>
             <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
            
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp2.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/emp2.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="emp-div">
-            <img src="http://68.183.113.49/wp-content/themes/temp/img/emp3.png">
+            <img src="http://68.183.113.49/wp-content/themes/fototeca/img/emp3.png">
             <h3>Compellingly synthesize holistic methods</h3>
               <p>Objectively re-engineer virtual outsourcing </br>whereas  
               cross-media applications. Interactively<br> reconceptualize 
               equity invested services and leading-edge leadership.</p>
               <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                <img src="http://68.183.113.49/wp-content/themes/temp/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
            </button>
           </div>
         </div>
@@ -384,7 +381,7 @@
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/temp/img/newsletter.png"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.png"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -401,13 +398,13 @@
 <section class="section-div partner-sec">
   <div class="container">
     <div class="partner-list">
-      <h1 class="heading">-Partnerships <sub><img src="http://68.183.113.49/wp-content/themes/temp/img/hand.png"></sub></h1>
+      <h1 class="heading">-Partnerships <sub><img src="http://68.183.113.49/wp-content/themes/fototeca/img/hand.png"></sub></h1>
     <div class="row">
       <div class="part_name">
         <ul>
-          <li><img src="http://68.183.113.49/wp-content/themes/temp/img/fotolab.png"></li>
-          <li><img src="http://68.183.113.49/wp-content/themes/temp/img/canon.png"></li>
-          <li><img src="http://68.183.113.49/wp-content/themes/temp/img/gat.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/fotolab.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/canon.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/gat.png"></li>
         </ul>  
       </div>  
     </div> 
@@ -498,10 +495,10 @@
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/twitter.png"></a></li>
-              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/facebook.png"></a></li>
-               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/youtube.png"></a></li>
-               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/temp/img/instagram.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
+               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
             </ul>    
         </div>
 
