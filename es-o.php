@@ -440,12 +440,12 @@
               T.:(502)23368570
              </p>
           </ul>
-           <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
-            </ul>    
+          <ul class="footer-sec contact">
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
+          </ul>        
         </div>
 
       </div>

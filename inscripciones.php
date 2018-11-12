@@ -6,19 +6,19 @@
 <!DOCTYPE html>
 <html>
 
-<head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-
-width, initial-scale=1, shrink-to-fit=no">   <meta name="description"
-content="">   <title>Footeca</title>   <!-- Favicon -->   <link
-href="img/favicon.png" rel="icon" type="image/png">   <!-- Fonts -->   <link
-href="" rel="stylesheet"> 
+<head>   
+  <meta charset="utf-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">   
+  <meta name="description"content="">   
+  <title>Fototeca - Inscripciones</title> 
 
 
   <!-- Icons -->  
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/responsive.css" rel="stylesheet">
+   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
 </head>
 
 <body class="Inscripciones_page">
@@ -28,7 +28,7 @@ href="" rel="stylesheet">
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
   <div class="container">
     <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
+     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -80,7 +80,7 @@ href="" rel="stylesheet">
   <div class="container">
     <div class="navbar-header">
      <div class="navbar_logo"><a class="navbar-brand" href="index.html">
-      <img src="img/logo-w.png">
+      <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo-w.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -121,7 +121,7 @@ href="" rel="stylesheet">
 
  <div class="inscrip-form">
          <h1 class="heading"><span class="line-border"></span>
-          Inscripciones<img class="book" src="img/pencil.png"></h1>
+          Inscripciones<img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/pencil.png"></h1>
          <h3 class="sun-head">Paso 1</h3>
     
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -359,7 +359,7 @@ href="" rel="stylesheet">
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.<br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -449,12 +449,12 @@ href="" rel="stylesheet">
               T.:(502)23368570
              </p>
           </ul>
-           <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
-            </ul>    
+          <ul class="footer-sec contact">
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
+          </ul>       
         </div>
 
       </div>

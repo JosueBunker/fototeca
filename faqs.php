@@ -27,7 +27,7 @@
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
   <div class="container">
     <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png">
+     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -83,7 +83,7 @@
     <nav class="navbar navbar-inverse menu-bar header_menu" id="header_menu"">
   <div class="container">
     <div class="navbar-header">
-     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="img/logo-w.png">
+     <div class="navbar_logo"><a class="navbar-brand" href="index.html"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo-w.png">
      </a></div>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
        <span class="icon-bar top-bar"></span>
@@ -120,7 +120,7 @@
 <section class="section-div faq-div main-faq">
   <div class="container">
     <h1 class="heading"><span class="line-border"></span>FAQS
-      <img class="book" src="img/que.png"></h1>
+      <img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/que.png"></h1>
 
 <div class="faq-points">
 <div class="row">
@@ -221,12 +221,12 @@
   </div>
  <div class="col-md-6">
   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-      <img src="img/right-arrow-faq.png" class="right_angel_ar">
+      <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow-faq.png" class="right_angel_ar">
   </button>
  </div>
 </div>
   <div class="bottom-arrow">
-    <img src="img/arrow.png">
+    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/arrow.png">
   </div>
 </div> 
 </div>
@@ -241,7 +241,7 @@
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -330,12 +330,12 @@
               T.:(502)23368570
              </p>
           </ul>
-           <ul class="footer-sec contact">
-              <li><a href="#"><img src="img/twitter.png"></a></li>
-              <li><a href="#"><img src="img/facebook.png"</a></li>
-               <li><a href="#"><img src="img/youtube.png"</a></li>
-               <li><a href="#"><img src="img/instagram.png"</a></li>
-            </ul>    
+          <ul class="footer-sec contact">
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
+            <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
+          </ul>    
         </div>
 
       </div>
