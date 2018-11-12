@@ -210,73 +210,66 @@
 
   <footer id="footer" class="section-div">
     <div class="container">
-       <div class="row">
+      <div class="row">
         <div class="footer_sec">
-         <ul class="footer-sec">
-            <li><h4 class="foot_head">Escuela</h4></li>
-            <li><a href="#">Programa Foto 360.</a></li>
-            <li><a href="#">Talleres </a></li>
-             <li><a href="#">Especializados.</a></li>
-            <li><a href="#">Talleres </a></li>
-             <li><a href="#">Internacionales.</a></li>
-            <li><a href="#">Diplomado en </a></li>
-             <li><a href="#">Fotografía.</a></li>
-            <li><a href="#">Inscripciones.</a></li>
-             <li><a href="#">Soporte Escuela.</a></li>
-           </ul>  
-             <ul class="footer-sec ul_sec">
-            <li><h4 class="foot_head">Eventos</h4></li>
-            <li><a href="#">Conversatorios.</a></li>
-            <li><a href="#">Exposiciones. </a></li>
-             <li><a href="#">Webinars.</a></li>
-            </ul>     
+          <ul class="footer-sec">
+            <li><a href="/escuela/"><h4 class="foot_head">Escuela</h4></a></li>
+            <li><a href="/escuela/">Programa Foto 360.</a></li>
+            <li><a href="/escuela/">Talleres <br/> Especializados.</a></li>
+            <li><a href="/escuela/">Talleres <br/> Internacionales.</a></li>
+            <li><a href="/escuela/">Diplomado en <br/> Fotografía.</a></li>
+            <li><a href="/inscripciones/">Inscripciones.</a></li>
+            <li><a href="/escuela/">Soporte Escuela.</a></li>
+          </ul>  
+          <ul class="footer-sec ul_sec">
+            <li><a href="/eventos/"><h4 class="foot_head">Eventos</h4></a></li>
+            <li><a href="/eventos/">Conversatorios.</a></li>
+            <li><a href="/eventos/">Exposiciones. </a></li>
+            <li><a href="/eventos/">Webinars.</a></li>
+          </ul>     
         </div>
 
         <div class="footer_sec">
           <ul class="footer-sec">
-            <li><h3 class="foot_head">Galeria ES-O</h3></li>
-            <li><a href="#">Próximas exposiciones.</a></li>
-            <li><a href="#">Statement.</a></li>
-             <li><a href="#">Exposiciones anteriores.</a></li>
+            <li><a href="/es-o/"><h4 class="foot_head">Galeria ES-O</h4></a></li>
+            <li><a href="/es-o/">Próximas exposiciones.</a></li>
+            <li><a href="/es-o/">Statement.</a></li>
+            <li><a href="/es-o/">Exposiciones anteriores.</a></li>
           </ul>
           <ul class="footer-sec ul_sec">
-            <li><h4 class="foot_head">LAB de Impresión</h4></li>
-             <li><a href="#">LAB.</a></li>
-            <li><a href="#">Biblioteca. </a></li>
-             <li><a href="#">Estudios de iluminación.</a></li>
+            <li><a href="/lab/"><h4 class="foot_head">LAB de Impresión</h4></a></li>
+            <li><a href="/lab/">LAB.</a></li>
+            <li><a href="/lab/">Biblioteca. </a></li>
+            <li><a href="/lab/">Estudios de iluminación.</a></li>
           </ul>  
         </div>
 
-          <div class="footer_sec">
-             <ul class="footer-sec">
-              <li><h4 class="foot_head">About</h4></li>
-              <li><a href="#">Quienes somos.</a></li>
-              <li><a href="#">Recorrido.</a></li>
-               <li><a href="#">Exposiciones </a></li>
-               <li><a href="#">internacionales.</a></li>
-              <li><a href="#">Revisiones de </a></li>
-               <li><a href="#">portafolios.</a></li>
-              <li><a href="#">Oportunidades para los </a></li>
-              <li><a href="#">Fototecos.</a></li>
-               <li><a href="#">Galeria ES-O</a></li>
-               <li><a href="#">Docentes.</a></li>
-              <li><a href="#">Alumnos.</a></li>
-               <li><a href="#">Liderazgo .</a></li>
-               <li><a href="#">Staff.</a></li>
-              <li><a href="#">Legado.</a></li>
-               <li><a href="#">Fechas Importantes.</a></li>
+        <div class="footer_sec">
+          <ul class="footer-sec">
+            <li><a href="/about"><h4 class="foot_head">About</h4></a></li>
+            <li><a href="/about/#quienes_somos">Quienes somos.</a></li>
+            <li><a href="/about/#recorrido">Recorrido.</a></li>
+            <li><a href="/about/">Exposiciones <br/> internacionales.</a></li>
+            <li><a href="/about/">Revisiones de <br/> portafolios.</a></li>
+            <li><a href="/about/">Oportunidades para los <br/> Fototecos.</a></li>
+            <li><a href="/es-o/">Galeria ES-O</a></li>
+            <li><a href="/docentes/">Docentes.</a></li>
+            <li><a href="/#blog">Alumnos.</a></li>
+            <li><a href="/about/">Liderazgo .</a></li>
+            <li><a href="/escuela/#staff">Staff.</a></li>
+            <li><a href="/about/">Legado.</a></li>
+            <li><a href="/about/">Fechas Importantes.</a></li>
           </ul>  
         </div>
 
-          <div class="footer_sec">
-            <ul class="footer-sec">
-              <li><h4 class="foot_head">Eventos</h4></li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="#">FAQ</a></li>
-               <li><a href="#">ALUMNI</a></li>
-               <li><a href="#">Login</a></li>
-               <li><a href="#">Perfil</a></li>
-            </ul>   
+        <div class="footer_sec">
+          <ul class="footer-sec">
+            <li><a href="/blog/"><h4 class="foot_head">Blog</h4></a></li>
+            <li><a href="/faqs/"><h4 class="foot_head">FAQ</h4></a></li>
+            <li><a href="/"><h4 class="foot_head">Alumni</h4></a></li>
+            <li><a href="/">Login</a></li>
+            <li><a href="/">Perfil</a></li>
+          </ul>   
         </div>
         <div class="footer_sec footer_sec_4">
             <ul class="footer-sec contact">
@@ -291,10 +284,10 @@
              </p>
           </ul>
            <ul class="footer-sec contact">
-              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/twitter.png"></a></li>
-              <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/facebook.png"></a></li>
-               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/youtube.png"></a></li>
-               <li><a href="#"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/instagram.png"></a></li>
+              <li><a href="#"><img src="img/twitter.png"></a></li>
+              <li><a href="#"><img src="img/facebook.png"</a></li>
+               <li><a href="#"><img src="img/youtube.png"</a></li>
+               <li><a href="#"><img src="img/instagram.png"</a></li>
             </ul>    
         </div>
 
@@ -304,6 +297,7 @@
 
     </div>
   </footer>
+  
   
   <!-- Core -->
   <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
