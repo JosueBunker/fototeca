@@ -652,7 +652,7 @@ footer#footer ul.footer-sec.ul_sec{
 footer#footer ul.footer-sec.contact{
     text-align: right;
 }
-footer#footer ul.footer-sec li { padding: 5px 0;  }
+footer#footer ul.footer-sec li { padding: 0px 0;  }
 footer#footer ul.footer-sec.contact li {display: inline-block;}
 footer#footer ul.footer-sec.contact p{margin-bottom: 20px;    font-size: 15px;}
 footer#footer ul.footer-sec li>a{color:#020100;    font-size: 15px;}
