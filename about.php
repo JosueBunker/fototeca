@@ -16,7 +16,7 @@
   <!-- Icons -->  
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/about.css" rel="stylesheet">
@@ -287,387 +287,423 @@
              <div class="col-sm-12">
               <div class="col-sm-3">
                <ul class="nav yearly-tabs">
-                <li class="y9 active"><a data-toggle="tab" href="#menu2009">2009</a></li>
-                <li class="y10"><a data-toggle="tab" href="#menu2010">2010</a></li>
-                <li class="y11"><a data-toggle="tab" href="#menu2011">2011</a></li>
-                <li class="y12"><a data-toggle="tab" href="#menu2012">2012</a></li>
-                <li class="y13"><a data-toggle="tab" href="#menu2013">2013</a></li>
-                <li class="y14"><a data-toggle="tab" href="#menu2014">2014</a></li>
-                <li class="y15"><a data-toggle="tab" href="#menu2015">2015</a></li>
-                <li class="y16"><a data-toggle="tab" href="#menu2016">2016</a></li>
-                <li class="y17"><a data-toggle="tab" href="#menu2017">2017</a></li>
-                <li class="y18"><a data-toggle="tab" href="#menu2018">2018</a></li>
+                <li class="y9 active"><a href="#home">2009</a></li>
+                <li class="y10"><a data-toggle="tab" href="#menu1">2010</a></li>
+                <li class="y11"><a data-toggle="tab" href="#menu2">2011</a></li>
+                <li class="y12"><a data-toggle="tab" href="#menu3">2012</a></li>
+                <li class="y13"><a data-toggle="tab" href="#menu3">2013</a></li>
+                <li class="y14"><a data-toggle="tab" href="#menu3">2014</a></li>
+                <li class="y15"><a data-toggle="tab" href="#menu3">2015</a></li>
+                <li class="y16"><a data-toggle="tab" href="#menu3">2016</a></li>
+                <li class="y17"><a data-toggle="tab" href="#menu3">2017</a></li>
+                <li class="y18"><a data-toggle="tab" href="#menu3">2018</a></li>
               </ul>
             </div>
             <div class="tab-content yearly_des">
-              <div id="menu2009" class="tab-pane fade in active">
+              <div id="home" class="tab-pane fade in active">
                 <div class="col-sm-9">
                   <div class="descrip">
                     <h2>2009</h2>
                     <p>Sed ut perspiciatis unde omnis iste 
-                    natus error sit voluptatem 
-                    accusantium doloremque laudantium, 
-                    totam rem aperiam, eaque ipsa quae 
-                    ab illo inventore veritatis et quasi 
-                    architecto beatae vitae dicta sunt 
-                    explicabo. 
-                    </p>
-                    <p>Nemo enim ipsam voluptatem quia 
-                    voluptas sit aspernatur aut odit aut 
-                    fugit, sed quia consequuntur magni 
-                    dolores eos qui ratione voluptatem 
-                    sequi nesciunt. Neque porro 
-                    quisquam est, qui dolorem ipsum quia 
-                    dolor sit amet, consectetur, adipisci 
-                    velit, sed quia non numquam eius 
-                    modi tempora incidunt ut labore et 
-                    dolore magnam aliquam quaerat 
-                    voluptatem. Ut enim ad minima 
-                    veniam, quis nostrum exercitationem 
-                    ullam corporis suscipit laboriosam, 
-                    nisi ut aliquid ex ea commodi 
-                    consequatur? Quis autem vel eum iure 
-                    reprehenderit qui in ea voluptate velit 
-                    esse quam nihil molestiae 
-                    consequatur, vel illum qui dolorem 
-                    eum fugiat quo voluptas nulla 
-                    pariatur?"
-                    </p>
-                  </div>
-               </div>
+                natus error sit voluptatem 
+                accusantium doloremque laudantium, 
+                totam rem aperiam, eaque ipsa quae 
+                ab illo inventore veritatis et quasi 
+                architecto beatae vitae dicta sunt 
+                explicabo. 
+                </p>
+                <p>Nemo enim ipsam voluptatem quia 
+                voluptas sit aspernatur aut odit aut 
+                fugit, sed quia consequuntur magni 
+                dolores eos qui ratione voluptatem 
+                sequi nesciunt. Neque porro 
+                quisquam est, qui dolorem ipsum quia 
+                dolor sit amet, consectetur, adipisci 
+                velit, sed quia non numquam eius 
+                modi tempora incidunt ut labore et 
+                dolore magnam aliquam quaerat 
+                voluptatem. Ut enim ad minima 
+                veniam, quis nostrum exercitationem 
+                ullam corporis suscipit laboriosam, 
+                nisi ut aliquid ex ea commodi 
+                consequatur? Quis autem vel eum iure 
+                reprehenderit qui in ea voluptate velit 
+                esse quam nihil molestiae 
+                consequatur, vel illum qui dolorem 
+                eum fugiat quo voluptas nulla 
+                pariatur?"
+                </p>
               </div>
-             <div id="menu2010" class="tab-pane fade">
-             <div class="col-sm-9"> 
-              <div class="descrip">
-               <h2>2010</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-                </div>
-              </div>
+           </div>
+          </div>
+         <div id="menu1" class="tab-pane fade">
+         <div class="col-sm-9"> 
+          <div class="descrip">
+           <h2>2010</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
             </div>
-            <div id="menu2011" class="tab-pane fade">
-              <div class="col-sm-9">
-               <div class="descrip">
-               <h2>2011</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-            <div id="menu2012" class="tab-pane fade">
-              <div class="col-sm-9">
-               <div class="descrip">
-               <h2>2012</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-             <div id="menu2013" class="tab-pane fade">
-              <div class="col-sm-9">
-               <div class="descrip">
-               <h2>2013</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-             <div id="menu2014" class="tab-pane fade">
-              <div class="col-sm-9">
-               <div class="descrip">
-               <h2>2014</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-             <div id="menu2015" class="tab-pane fade">
-              <div class="col-sm-9">
-                <div class="descrip">
-               <h2>2015</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-             <div id="menu2016" class="tab-pane fade">
-              <div class="col-sm-9">
-                <div class="descrip">
-               <h2>2016</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-            </div>
-             </div>
-             <div id="menu2017" class="tab-pane fade">
-              <div class="col-sm-9">
-                <div class="descrip">
-               <h2>2017</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-             <div id="menu2018" class="tab-pane fade">
-              <div class="col-sm-9">
-                <div class="descrip">
-               <h2>2018</h2>
-                  <p>Sed ut perspiciatis unde omnis iste 
-                  natus error sit voluptatem 
-                  accusantium doloremque laudantium, 
-                  totam rem aperiam, eaque ipsa quae 
-                  ab illo inventore veritatis et quasi 
-                  architecto beatae vitae dicta sunt 
-                  explicabo. 
-                  </p>
-                  <p>Nemo enim ipsam voluptatem quia 
-                  voluptas sit aspernatur aut odit aut 
-                  fugit, sed quia consequuntur magni 
-                  dolores eos qui ratione voluptatem 
-                  sequi nesciunt. Neque porro 
-                  quisquam est, qui dolorem ipsum quia 
-                  dolor sit amet, consectetur, adipisci 
-                  velit, sed quia non numquam eius 
-                  modi tempora incidunt ut labore et 
-                  dolore magnam aliquam quaerat 
-                  voluptatem. Ut enim ad minima 
-                  veniam, quis nostrum exercitationem 
-                  ullam corporis suscipit laboriosam, 
-                  nisi ut aliquid ex ea commodi 
-                  consequatur? Quis autem vel eum iure 
-                  reprehenderit qui in ea voluptate velit 
-                  esse quam nihil molestiae 
-                  consequatur, vel illum qui dolorem 
-                  eum fugiat quo voluptas nulla 
-                  pariatur?"
-                  </p>
-              </div>
-             </div>
-           </div>
-           
+          </div>
+        </div>
+        <div id="menu2" class="tab-pane fade">
+          <div class="col-sm-9">
+           <div class="descrip">
+           <h2>2011</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
           </div>
          </div>
+       </div>
+        <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+           <div class="descrip">
+           <h2>2012</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+           <div class="descrip">
+           <h2>2013</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+            <div class="descrip">
+           <h2>2013</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+           <div class="descrip">
+           <h2>2014</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+            <div class="descrip">
+           <h2>2015</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+            <div class="descrip">
+           <h2>2016</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
         </div>
+         </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+            <div class="descrip">
+           <h2>2017</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+         <div id="menu3" class="tab-pane fade">
+          <div class="col-sm-9">
+            <div class="descrip">
+           <h2>2018</h2>
+              <p>Sed ut perspiciatis unde omnis iste 
+              natus error sit voluptatem 
+              accusantium doloremque laudantium, 
+              totam rem aperiam, eaque ipsa quae 
+              ab illo inventore veritatis et quasi 
+              architecto beatae vitae dicta sunt 
+              explicabo. 
+              </p>
+              <p>Nemo enim ipsam voluptatem quia 
+              voluptas sit aspernatur aut odit aut 
+              fugit, sed quia consequuntur magni 
+              dolores eos qui ratione voluptatem 
+              sequi nesciunt. Neque porro 
+              quisquam est, qui dolorem ipsum quia 
+              dolor sit amet, consectetur, adipisci 
+              velit, sed quia non numquam eius 
+              modi tempora incidunt ut labore et 
+              dolore magnam aliquam quaerat 
+              voluptatem. Ut enim ad minima 
+              veniam, quis nostrum exercitationem 
+              ullam corporis suscipit laboriosam, 
+              nisi ut aliquid ex ea commodi 
+              consequatur? Quis autem vel eum iure 
+              reprehenderit qui in ea voluptate velit 
+              esse quam nihil molestiae 
+              consequatur, vel illum qui dolorem 
+              eum fugiat quo voluptas nulla 
+              pariatur?"
+              </p>
+          </div>
+         </div>
+       </div>
+
+        </div>
+       </div>
       </div>
-     </div>
     </div>
-  </section>
+   </div>
+  </div>
+</section>
 
 <section class="section-div tour-div conoce_div">
    <div class="container">
