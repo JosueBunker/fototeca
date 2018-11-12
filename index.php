@@ -6,16 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description"content="">   
   <title>Fototeca - Home</title>   <!-- Favicon -->   
-  <link href="<?php echo get_template_directory_uri(); ?>/img/favicon.png" rel="icon" type="image/png">   
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/img/favicon.png" rel="icon" type="image/png">   
   <!-- Fonts -->
 
   <!-- Icons -->  
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <!-- css -->  
-  <link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
-  <link href="<?php echo get_template_directory_uri(); ?>/css/style.css" rel="stylesheet" type="text/css" media="all">
-  <link href="<?php echo get_template_directory_uri(); ?>/css/responsive.css" rel="stylesheet" type="text/css" media="all">
-  <link href="<?php echo get_template_directory_uri(); ?>/css/index.css" rel="stylesheet" type="text/css" media="all">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet" type="text/css" media="all">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet" type="text/css" media="all">
+  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/index.css" rel="stylesheet" type="text/css" media="all">
   <?php wp_head();?>
 </head>
 
@@ -27,7 +27,7 @@
         <div class="navbar-header">
           <div class="navbar_logo">
             <a class="navbar-brand" href="/">
-              <img src="<?php echo get_template_directory_uri(); ?>/img/logo.png">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/logo.png">
             </a>
           </div>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
@@ -106,10 +106,10 @@
           </p>
           <a href="about.php">
             <button type="btn" class="btn btn-learn ">CONOCE MÁS
-              <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+              <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
             </button>
           </a>
-          <img src="<?php echo get_template_directory_uri(); ?>/img/camera.jpg" class="icon_img">
+          <img src="http://68.183.113.49/wp-content/themes/fototeca/img/camera.jpg" class="icon_img">
           </div>
         </div> 
       </div>
@@ -119,7 +119,7 @@
 <section class="section-div slider-sec for_desctop">
   <div class="container">
   <h1 class="heading"><span class="line-border"></span> Próximos  <span class="block-next-heading">Talleres.</span>     </h1> 
-   <span class="work-link"><img src="<?php echo get_template_directory_uri(); ?>/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/right_hand.png">"¡Faltan 12 días para este taller!"</span> 
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -131,7 +131,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner slider_sec">
       <div class="item active">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -141,14 +141,14 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
           </div>
         </div>
 
       <div class="item">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="Chicago">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="Chicago">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -158,14 +158,14 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
         </div>
       </div>
     
       <div class="item">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="New york">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="New york">
           <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -175,7 +175,7 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
         </div>
@@ -209,10 +209,10 @@
 <section class="section-div slider-sec for_mobile">
   <div class="container">
     <h1 class="heading"><span class="line-border"></span> Próximos  <span class="block-next-heading">Talleres.</span></h1> 
-   <span class="work-link"><img src="<?php echo get_template_directory_uri(); ?>/img/right_hand.png"> "¡Faltan 12 días para este taller!"</span> 
+   <span class="work-link"><img src="http://68.183.113.49/wp-content/themes/fototeca/img/right_hand.png"> "¡Faltan 12 días para este taller!"</span> 
   
   <div class="mobile_slider">
-        <img src="<?php echo get_template_directory_uri(); ?>/img/slider.jpg" alt="Los Angeles">
+        <img src="http://68.183.113.49/wp-content/themes/fototeca/img/slider.jpg" alt="Los Angeles">
          <div class="carousel-caption">
           <h3>TALLER</h3>
             <div class="inner-caption">
@@ -222,7 +222,7 @@
             </div>
             <a href="lab.html">
               <button type="btn" class="btn btn-learn">CONOCE MÁS 
-                <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
               </button>
             </a>
         </div>
@@ -233,12 +233,12 @@
 <section class="section-div tour-div">
    <div class="container">
     <div class="main_section">
-      <h1 class="heading"><span class="line-border"></span> Recorrido Académico <img class="book" src="<?php echo get_template_directory_uri(); ?>/img/open-book.png"></h1>
+      <h1 class="heading"><span class="line-border"></span> Recorrido Académico <img class="book" src="http://68.183.113.49/wp-content/themes/fototeca/img/open-book.png"></h1>
       <div class="row">
         <div class="col-sm-6">
           <div class="acd-tour">
-            <div class="tour-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s1.jpg);">
-             <!--  <img src="<?php echo get_template_directory_uri(); ?>/img/s1.jpg"> -->
+            <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/s1.jpg);">
+             <!--  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s1.jpg"> -->
             </div>
             <div class="tour-caption">
               <h1 class="num">1</h1>
@@ -247,7 +247,7 @@
               <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborder btn-top">CONOCE MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -257,8 +257,8 @@
 
           <div class="col-sm-6">
             <div class="acd-tour">
-            <div class="tour-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s2.jpg);">
-              <!-- <img src="<?php echo get_template_directory_uri(); ?>/img/s2.jpg"> -->
+            <div class="tour-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg);">
+              <!-- <img src="http://68.183.113.49/wp-content/themes/fototeca/img/s2.jpg"> -->
              </div>
             <div class="tour-caption">
               <h1 class="num">2</h1>
@@ -267,7 +267,7 @@
               <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborder btn-top">CONOCE MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -277,7 +277,7 @@
 
           <div class="col-sm-4">
            <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s3.jpg);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/s3.jpg);">
             </div>
             <div class="tour-caption chng-col">
               <h1 class="num">3</h1>
@@ -289,7 +289,7 @@
             <div class="lrn-div">
               <a href="curso.html">
                 <button type="btn" class="btn btn-learn btn_withborderb">CONOCE MÁS
-                  <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow2.png" class="right_angel_ar">
+                  <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
                 </button>
               </a>
             </div>
@@ -299,7 +299,7 @@
 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s4.jpg);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/s4.jpg);">
              </div>
             <div class="tour-caption">
                <h1 class="num">4</h1>
@@ -309,7 +309,7 @@
               <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -319,7 +319,7 @@
 
           <div class="col-sm-4">
             <div class="acd-tour">
-            <div class="tour-img tour_img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/s5.jpg);">
+            <div class="tour-img tour_img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/s5.jpg);">
              </div>
             <div class="tour-caption chng-col">
               <h1 class="num">5</h1>
@@ -329,7 +329,7 @@
              <div class="lrn-div">
                 <a href="curso.html">
                   <button type="btn" class="btn btn-learn btn_withborderb">CONOCE MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow2.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow2.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -361,7 +361,7 @@
             <p><a href="#">ALUMNO DESTACADO</a></p>
             <div class="inner-blog">
               <h1>Juan Pablo <br/>Ochoa</h1>
-              <img class="like-img" src="<?php echo get_template_directory_uri(); ?>/img/like.png">
+              <img class="like-img" src="http://68.183.113.49/wp-content/themes/fototeca/img/like.png">
             </div>
           </div>
           <div class="cont_section">
@@ -373,7 +373,7 @@
                   <p><a href="#">ALUMNO DESTACADO</a></p>
                   <div class="inner-blog">
                     <h1>Juan Pablo <br/>Ochoa</h1>
-                    <img class="like-img" src="<?php echo get_template_directory_uri(); ?>/img/like.png">
+                    <img class="like-img" src="http://68.183.113.49/wp-content/themes/fototeca/img/like.png">
                   </div>
                 </div>
                 <p>Objectively re-engineer virtual outsourcing whereas 
@@ -384,7 +384,7 @@
                 </p>
                 <a href="blog.html">
                   <button type="btn" class="btn btn-learn btn_withborder">CONOCE MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </a>
               </div>
@@ -396,7 +396,7 @@
 
               <div class="col-sm-4 blog">
                 <h2 class="mobile-heading">Foto del día</h2>
-                <div class="blog-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/b1.jpg);">
+                <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/b1.jpg);">
                   <h2 class="web-heding">Foto del día</h2>
                 </div>
                 <div class="img-content">
@@ -404,14 +404,14 @@
                     whereas cross-media applications. 
                   </p>
                   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </div>
               </div> 
 
               <div class="col-sm-4 blog">
                 <h2 class="mobile-heading">Recomenda-cion</h2>
-                <div class="blog-img" style="background:url(<?php echo get_template_directory_uri(); ?>/img/b2.jpg);">
+                <div class="blog-img" style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/b2.jpg);">
                   <h2 class="web-heding">Recomenda-cion</h2>
                 </div>
                 <div class="img-content">
@@ -419,14 +419,14 @@
                     whereas cross-media applications.
                   </p>
                   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </div>
               </div> 
 
               <div class="col-sm-4 blog">
                 <h2 class="mobile-heading">Fotógrafo recomendado</h2>
-                <div class="blog-img"  style="background:url(<?php echo get_template_directory_uri(); ?>/img/b3.jpg);">
+                <div class="blog-img"  style="background:url(http://68.183.113.49/wp-content/themes/fototeca/img/b3.jpg);">
                   <h2 class="web-heding">Fotografo recomendado</h2>
                 </div>
                 <div class="img-content">
@@ -434,7 +434,7 @@
                     whereas cross-media applications.
                   </p>
                   <button type="btn" class="btn btn-learn btn_withborder">VER MÁS
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/right-arrow.png" class="right_angel_ar">
+                    <img src="http://68.183.113.49/wp-content/themes/fototeca/img/right-arrow.png" class="right_angel_ar">
                   </button>
                 </div>
               </div> 
@@ -449,7 +449,7 @@
 <section class="section-div newsletter">
   <div class="container">
     <div class="newsletter-div">
-      <h1 class="heading">Newsletter <img src="<?php echo get_template_directory_uri(); ?>/img/newsletter.jpg"></h1>
+      <h1 class="heading">Newsletter <img src="http://68.183.113.49/wp-content/themes/fototeca/img/newsletter.jpg"></h1>
       <p>Recibe en la intimidad de tu bandeja de entrada nuestro boletín semanal.</br>
        Noticias, tips, eventos, talleres y más.</p>
     <form class="navbar-form news-left" action="/action_page.php">
@@ -466,13 +466,13 @@
 <section class="section-div partner-sec">
   <div class="container">
     <div class="partner-list">
-      <h1 class="heading"><span class="line-border"></span> Partnerships <sub><img src="<?php echo get_template_directory_uri(); ?>/img/hand.png"></sub></h1>
+      <h1 class="heading"><span class="line-border"></span> Partnerships <sub><img src="http://68.183.113.49/wp-content/themes/fototeca/img/hand.png"></sub></h1>
     <div class="row">
       <div class="part_name">
         <ul>
-          <li><img src="<?php echo get_template_directory_uri(); ?>/img/fotolab.png"></li>
-          <li><img src="<?php echo get_template_directory_uri(); ?>/img/canon.png"></li>
-          <li><img src="<?php echo get_template_directory_uri(); ?>/img/gat.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/fotolab.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/canon.png"></li>
+          <li><img src="http://68.183.113.49/wp-content/themes/fototeca/img/gat.png"></li>
         </ul>  
       </div>  
     </div> 
@@ -571,9 +571,9 @@
   </footer>
   
   <!-- Core -->
-  <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
+  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
   <script type="text/javascript">
      $('.navbar-toggle').click(function(){
