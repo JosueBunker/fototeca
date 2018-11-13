@@ -14,7 +14,7 @@
 
 
   <!-- Icons -->  
-  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
    <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
   <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
