@@ -5,9 +5,7 @@
   <meta charset="utf-8">   
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description"content="">   
-  <title>Fototeca - Home</title>   <!-- Favicon -->   
-  <link href="http://68.183.113.49/wp-content/themes/fototeca/img/favicon.png" rel="icon" type="image/png">   
-  <!-- Fonts -->
+  <title>Fototeca - Home</title>
 
   <!-- Icons -->  
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
@@ -571,9 +569,9 @@
   </footer>
   
   <!-- Core -->
-  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
+  <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
+  <!-- <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/bootstrap.min.js"></script> -->
 
   <script type="text/javascript">
      $('.navbar-toggle').click(function(){
