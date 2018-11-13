@@ -571,7 +571,7 @@
   <!-- Core -->
   <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <!-- <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/bootstrap.min.js"></script> -->
+  <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
   <script type="text/javascript">
      $('.navbar-toggle').click(function(){

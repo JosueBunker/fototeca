@@ -16,9 +16,9 @@
   <!-- Icons -->  
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <!-- css -->  
-   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
+   <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
 </head>
 
 <body class="Inscripciones_page">
@@ -418,9 +418,9 @@
   
   
   <!-- Core -->
-  <script src="js/jquery.min.js"></script>
+  <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="js/bootstrap.min.js"></script>
+  <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){

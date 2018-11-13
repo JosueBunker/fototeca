@@ -15,9 +15,10 @@
   <!-- Icons -->  
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <!-- css -->  
-   <link href="http://68.183.113.49/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
-  <link href="http://68.183.113.49/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/bootstrap.min.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/style.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/responsive.css" rel="stylesheet">
+  <link href="//fototeca.bunker.media/wp-content/themes/fototeca/css/blog-post.css" rel="stylesheet">
 </head>
 
 <body class="newsletter-page">
@@ -488,9 +489,9 @@
   
   
   <!-- Core -->
-  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/jquery.min.js"></script>
+  <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/jquery.min.js"></script>
  <!--  <script src="./assets/vendor/popper/popper.min.js"></script> -->
-  <script src="http://68.183.113.49/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
+  <script src="//fototeca.bunker.media/wp-content/themes/fototeca/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
    $('.navbar-toggle').click(function(){
